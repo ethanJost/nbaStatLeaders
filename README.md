@@ -1,4 +1,2 @@
 # nbaStatLeaders
-This is my first work on webscrapers and asynchronous programming. The idea for this project in a step by step basis is as follows:
-
-1. Assemble WebScraper such that 
+This is my first work on webscrapers and asynchronous programming. The idea for this project is to continue growing my Python skills while learning webscraping, web development, and data analysis all while digging into the wonderful game of basketball.
