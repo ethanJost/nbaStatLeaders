@@ -1,0 +1,6747 @@
+Precious Achiuwa:
+Position: C
+Age: 24
+Team: TOR
+ Games Played: 21
+Minutes Played: 387
+Advanced Statistics:
+Player Efficiency Rating = 16.2
+True Shooting Percentage = 0.533
+Usage Percentage = 21.3
+Win Shares = 0.7
+VORP = 0.2
+
+Bam Adebayo:
+Position: C
+Age: 26
+Team: MIA
+ Games Played: 18
+Minutes Played: 603
+Advanced Statistics:
+Player Efficiency Rating = 21.3
+True Shooting Percentage = 0.578
+Usage Percentage = 28.3
+Win Shares = 1.7
+VORP = 0.6
+
+Ochai Agbaji:
+Position: SG
+Age: 23
+Team: UTA
+ Games Played: 29
+Minutes Played: 623
+Advanced Statistics:
+Player Efficiency Rating = 10.3
+True Shooting Percentage = 0.575
+Usage Percentage = 13.1
+Win Shares = 0.7
+VORP = 0.0
+
+Santi Aldama:
+Position: PF
+Age: 23
+Team: MEM
+ Games Played: 21
+Minutes Played: 526
+Advanced Statistics:
+Player Efficiency Rating = 14.7
+True Shooting Percentage = 0.545
+Usage Percentage = 20.6
+Win Shares = 0.9
+VORP = 0.4
+
+Nickeil Alexander-Walker:
+Position: SG
+Age: 25
+Team: MIN
+ Games Played: 27
+Minutes Played: 624
+Advanced Statistics:
+Player Efficiency Rating = 9.5
+True Shooting Percentage = 0.539
+Usage Percentage = 14.2
+Win Shares = 1.2
+VORP = 0.3
+
+Grayson Allen:
+Position: SG
+Age: 28
+Team: PHO
+ Games Played: 22
+Minutes Played: 731
+Advanced Statistics:
+Player Efficiency Rating = 12.4
+True Shooting Percentage = 0.655
+Usage Percentage = 13.9
+Win Shares = 1.6
+VORP = 0.2
+
+Jarrett Allen:
+Position: C
+Age: 25
+Team: CLE
+ Games Played: 24
+Minutes Played: 696
+Advanced Statistics:
+Player Efficiency Rating = 18.8
+True Shooting Percentage = 0.69
+Usage Percentage = 16.8
+Win Shares = 2.5
+VORP = 0.6
+
+Jose Alvarado:
+Position: PG
+Age: 25
+Team: NOP
+ Games Played: 15
+Minutes Played: 254
+Advanced Statistics:
+Player Efficiency Rating = 13.3
+True Shooting Percentage = 0.544
+Usage Percentage = 17.9
+Win Shares = 0.5
+VORP = 0.2
+
+Kyle Anderson:
+Position: PF
+Age: 30
+Team: MIN
+ Games Played: 27
+Minutes Played: 621
+Advanced Statistics:
+Player Efficiency Rating = 12.0
+True Shooting Percentage = 0.511
+Usage Percentage = 15.4
+Win Shares = 1.3
+VORP = 0.5
+
+Giannis Antetokounmpo:
+Position: PF
+Age: 29
+Team: MIL
+ Games Played: 27
+Minutes Played: 940
+Advanced Statistics:
+Player Efficiency Rating = 29.0
+True Shooting Percentage = 0.644
+Usage Percentage = 33.6
+Win Shares = 4.4
+VORP = 2.2
+
+Thanasis Antetokounmpo:
+Position: PF
+Age: 31
+Team: MIL
+ Games Played: 12
+Minutes Played: 55
+Advanced Statistics:
+Player Efficiency Rating = 3.3
+True Shooting Percentage = 0.444
+Usage Percentage = 10.7
+Win Shares = 0.0
+VORP = -0.1
+
+Cole Anthony:
+Position: PG
+Age: 23
+Team: ORL
+ Games Played: 27
+Minutes Played: 685
+Advanced Statistics:
+Player Efficiency Rating = 17.3
+True Shooting Percentage = 0.583
+Usage Percentage = 24.6
+Win Shares = 2.1
+VORP = 0.7
+
+OG Anunoby:
+Position: SF
+Age: 26
+Team: TOR
+ Games Played: 23
+Minutes Played: 763
+Advanced Statistics:
+Player Efficiency Rating = 11.9
+True Shooting Percentage = 0.58
+Usage Percentage = 18.4
+Win Shares = 1.0
+VORP = 0.1
+
+Ryan Arcidiacono:
+Position: PG
+Age: 29
+Team: NYK
+ Games Played: 9
+Minutes Played: 20
+Advanced Statistics:
+Player Efficiency Rating = 4.5
+True Shooting Percentage = 0.0
+Usage Percentage = 6.3
+Win Shares = 0.0
+VORP = 0.0
+
+Deni Avdija:
+Position: SF
+Age: 23
+Team: WAS
+ Games Played: 27
+Minutes Played: 734
+Advanced Statistics:
+Player Efficiency Rating = 14.4
+True Shooting Percentage = 0.586
+Usage Percentage = 17.7
+Win Shares = 1.1
+VORP = 0.1
+
+Deandre Ayton:
+Position: C
+Age: 25
+Team: POR
+ Games Played: 23
+Minutes Played: 731
+Advanced Statistics:
+Player Efficiency Rating = 15.9
+True Shooting Percentage = 0.571
+Usage Percentage = 18.0
+Win Shares = 1.4
+VORP = 0.0
+
+Udoka Azubuike:
+Position: C
+Age: 24
+Team: PHO
+ Games Played: 2
+Minutes Played: 9
+Advanced Statistics:
+Player Efficiency Rating = 11.8
+True Shooting Percentage = 1.0
+Usage Percentage = 4.8
+Win Shares = 0.0
+VORP = 0.0
+
+Marvin Bagley III:
+Position: C
+Age: 24
+Team: DET
+ Games Played: 23
+Minutes Played: 442
+Advanced Statistics:
+Player Efficiency Rating = 18.0
+True Shooting Percentage = 0.639
+Usage Percentage = 21.0
+Win Shares = 0.9
+VORP = 0.1
+
+Amari Bailey:
+Position: PG
+Age: 19
+Team: CHO
+ Games Played: 2
+Minutes Played: 11
+Advanced Statistics:
+Player Efficiency Rating = 3.8
+True Shooting Percentage = 0.363
+Usage Percentage = 30.8
+Win Shares = -0.1
+VORP = 0.0
+
+Patrick Baldwin Jr.:
+Position: SF
+Age: 21
+Team: WAS
+ Games Played: 7
+Minutes Played: 39
+Advanced Statistics:
+Player Efficiency Rating = 13.2
+True Shooting Percentage = 0.576
+Usage Percentage = 17.0
+Win Shares = 0.1
+VORP = 0.0
+
+LaMelo Ball:
+Position: PG
+Age: 22
+Team: CHO
+ Games Played: 15
+Minutes Played: 501
+Advanced Statistics:
+Player Efficiency Rating = 20.6
+True Shooting Percentage = 0.568
+Usage Percentage = 33.0
+Win Shares = 0.7
+VORP = 0.7
+
+Mo Bamba:
+Position: C
+Age: 25
+Team: PHI
+ Games Played: 15
+Minutes Played: 91
+Advanced Statistics:
+Player Efficiency Rating = 23.4
+True Shooting Percentage = 0.633
+Usage Percentage = 22.6
+Win Shares = 0.4
+VORP = 0.1
+
+Paolo Banchero:
+Position: PF
+Age: 21
+Team: ORL
+ Games Played: 27
+Minutes Played: 909
+Advanced Statistics:
+Player Efficiency Rating = 16.0
+True Shooting Percentage = 0.549
+Usage Percentage = 27.7
+Win Shares = 1.4
+VORP = 0.6
+
+Desmond Bane:
+Position: SG
+Age: 25
+Team: MEM
+ Games Played: 26
+Minutes Played: 895
+Advanced Statistics:
+Player Efficiency Rating = 18.7
+True Shooting Percentage = 0.582
+Usage Percentage = 30.0
+Win Shares = 1.8
+VORP = 1.2
+
+Dalano Banton:
+Position: PG
+Age: 24
+Team: BOS
+ Games Played: 12
+Minutes Played: 94
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.537
+Usage Percentage = 16.8
+Win Shares = 0.2
+VORP = 0.0
+
+Dominick Barlow:
+Position: PF
+Age: 20
+Team: SAS
+ Games Played: 8
+Minutes Played: 45
+Advanced Statistics:
+Player Efficiency Rating = 4.2
+True Shooting Percentage = 0.43
+Usage Percentage = 10.8
+Win Shares = 0.0
+VORP = -0.1
+
+Harrison Barnes:
+Position: PF
+Age: 31
+Team: SAC
+ Games Played: 26
+Minutes Played: 795
+Advanced Statistics:
+Player Efficiency Rating = 11.5
+True Shooting Percentage = 0.627
+Usage Percentage = 13.8
+Win Shares = 1.5
+VORP = 0.1
+
+Scottie Barnes:
+Position: SG
+Age: 22
+Team: TOR
+ Games Played: 27
+Minutes Played: 944
+Advanced Statistics:
+Player Efficiency Rating = 21.7
+True Shooting Percentage = 0.586
+Usage Percentage = 24.4
+Win Shares = 3.1
+VORP = 2.0
+
+RJ Barrett:
+Position: SG
+Age: 23
+Team: NYK
+ Games Played: 22
+Minutes Played: 643
+Advanced Statistics:
+Player Efficiency Rating = 15.5
+True Shooting Percentage = 0.545
+Usage Percentage = 26.9
+Win Shares = 1.2
+VORP = 0.1
+
+Charles Bassey:
+Position: C
+Age: 23
+Team: SAS
+ Games Played: 19
+Minutes Played: 205
+Advanced Statistics:
+Player Efficiency Rating = 17.6
+True Shooting Percentage = 0.739
+Usage Percentage = 11.8
+Win Shares = 0.6
+VORP = 0.2
+
+Emoni Bates:
+Position: SF
+Age: 20
+Team: CLE
+ Games Played: 8
+Minutes Played: 61
+Advanced Statistics:
+Player Efficiency Rating = 3.6
+True Shooting Percentage = 0.359
+Usage Percentage = 15.5
+Win Shares = -0.1
+VORP = -0.1
+
+Keita Bates-Diop:
+Position: SF
+Age: 28
+Team: PHO
+ Games Played: 22
+Minutes Played: 387
+Advanced Statistics:
+Player Efficiency Rating = 11.0
+True Shooting Percentage = 0.491
+Usage Percentage = 13.7
+Win Shares = 0.6
+VORP = -0.1
+
+Nicolas Batum:
+Position: PF
+Age: 35
+Team: TOT
+ Games Played: 20
+Minutes Played: 478
+Advanced Statistics:
+Player Efficiency Rating = 11.8
+True Shooting Percentage = 0.717
+Usage Percentage = 7.8
+Win Shares = 1.5
+VORP = 0.4
+
+Nicolas Batum:
+Position: PF
+Age: 35
+Team: LAC
+ Games Played: 3
+Minutes Played: 54
+Advanced Statistics:
+Player Efficiency Rating = 9.8
+True Shooting Percentage = 0.5
+Usage Percentage = 7.2
+Win Shares = 0.1
+VORP = 0.1
+
+Nicolas Batum:
+Position: PF
+Age: 35
+Team: PHI
+ Games Played: 17
+Minutes Played: 424
+Advanced Statistics:
+Player Efficiency Rating = 12.1
+True Shooting Percentage = 0.741
+Usage Percentage = 7.8
+Win Shares = 1.4
+VORP = 0.4
+
+Bradley Beal:
+Position: SG
+Age: 30
+Team: PHO
+ Games Played: 6
+Minutes Played: 151
+Advanced Statistics:
+Player Efficiency Rating = 13.3
+True Shooting Percentage = 0.553
+Usage Percentage = 26.7
+Win Shares = 0.1
+VORP = 0.0
+
+Malik Beasley:
+Position: SG
+Age: 27
+Team: MIL
+ Games Played: 26
+Minutes Played: 783
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.642
+Usage Percentage = 13.5
+Win Shares = 1.8
+VORP = 0.4
+
+MarJon Beauchamp:
+Position: SF
+Age: 23
+Team: MIL
+ Games Played: 24
+Minutes Played: 386
+Advanced Statistics:
+Player Efficiency Rating = 8.2
+True Shooting Percentage = 0.594
+Usage Percentage = 13.2
+Win Shares = 0.4
+VORP = -0.1
+
+Jules Bernard:
+Position: SG
+Age: 24
+Team: WAS
+ Games Played: 2
+Minutes Played: 10
+Advanced Statistics:
+Player Efficiency Rating = -7.1
+True Shooting Percentage = 0.2
+Usage Percentage = 25.3
+Win Shares = -0.1
+VORP = 0.0
+
+Dāvis Bertāns:
+Position: PF
+Age: 31
+Team: OKC
+ Games Played: 9
+Minutes Played: 71
+Advanced Statistics:
+Player Efficiency Rating = 16.7
+True Shooting Percentage = 0.684
+Usage Percentage = 16.1
+Win Shares = 0.3
+VORP = 0.1
+
+Patrick Beverley:
+Position: PG
+Age: 35
+Team: PHI
+ Games Played: 27
+Minutes Played: 465
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.523
+Usage Percentage = 12.3
+Win Shares = 1.0
+VORP = 0.1
+
+Saddiq Bey:
+Position: SF
+Age: 24
+Team: ATL
+ Games Played: 27
+Minutes Played: 855
+Advanced Statistics:
+Player Efficiency Rating = 12.9
+True Shooting Percentage = 0.579
+Usage Percentage = 15.7
+Win Shares = 1.3
+VORP = 0.1
+
+Goga Bitadze:
+Position: C
+Age: 24
+Team: ORL
+ Games Played: 24
+Minutes Played: 506
+Advanced Statistics:
+Player Efficiency Rating = 18.3
+True Shooting Percentage = 0.632
+Usage Percentage = 13.4
+Win Shares = 2.1
+VORP = 0.7
+
+Onuralp Bitim:
+Position: SG
+Age: 24
+Team: CHI
+ Games Played: 1
+Minutes Played: 3
+Advanced Statistics:
+Player Efficiency Rating = 0.0
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Bismack Biyombo:
+Position: C
+Age: 31
+Team: MEM
+ Games Played: 21
+Minutes Played: 509
+Advanced Statistics:
+Player Efficiency Rating = 10.9
+True Shooting Percentage = 0.571
+Usage Percentage = 11.2
+Win Shares = 0.9
+VORP = -0.1
+
+Anthony Black:
+Position: PG
+Age: 20
+Team: ORL
+ Games Played: 25
+Minutes Played: 489
+Advanced Statistics:
+Player Efficiency Rating = 8.0
+True Shooting Percentage = 0.568
+Usage Percentage = 11.3
+Win Shares = 0.8
+VORP = -0.1
+
+Leaky Black:
+Position: SF
+Age: 24
+Team: CHO
+ Games Played: 7
+Minutes Played: 40
+Advanced Statistics:
+Player Efficiency Rating = 17.0
+True Shooting Percentage = 0.688
+Usage Percentage = 9.7
+Win Shares = 0.1
+VORP = 0.1
+
+Bogdan Bogdanović:
+Position: SG
+Age: 31
+Team: ATL
+ Games Played: 25
+Minutes Played: 701
+Advanced Statistics:
+Player Efficiency Rating = 18.0
+True Shooting Percentage = 0.618
+Usage Percentage = 22.5
+Win Shares = 1.9
+VORP = 0.9
+
+Bojan Bogdanović:
+Position: PF
+Age: 34
+Team: DET
+ Games Played: 9
+Minutes Played: 286
+Advanced Statistics:
+Player Efficiency Rating = 15.0
+True Shooting Percentage = 0.609
+Usage Percentage = 23.6
+Win Shares = 0.4
+VORP = 0.1
+
+Bol Bol:
+Position: PF
+Age: 24
+Team: PHO
+ Games Played: 6
+Minutes Played: 15
+Advanced Statistics:
+Player Efficiency Rating = 4.4
+True Shooting Percentage = 0.667
+Usage Percentage = 14.4
+Win Shares = 0.0
+VORP = 0.0
+
+Marques Bolden:
+Position: C
+Age: 25
+Team: MIL
+ Games Played: 2
+Minutes Played: 3
+Advanced Statistics:
+Player Efficiency Rating = 3.2
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Devin Booker:
+Position: SG
+Age: 27
+Team: PHO
+ Games Played: 18
+Minutes Played: 643
+Advanced Statistics:
+Player Efficiency Rating = 23.1
+True Shooting Percentage = 0.602
+Usage Percentage = 31.7
+Win Shares = 2.5
+VORP = 0.9
+
+Brandon Boston Jr.:
+Position: SF
+Age: 22
+Team: LAC
+ Games Played: 3
+Minutes Played: 28
+Advanced Statistics:
+Player Efficiency Rating = 11.2
+True Shooting Percentage = 0.471
+Usage Percentage = 27.8
+Win Shares = 0.0
+VORP = 0.0
+
+Chris Boucher:
+Position: PF
+Age: 31
+Team: TOR
+ Games Played: 25
+Minutes Played: 354
+Advanced Statistics:
+Player Efficiency Rating = 14.7
+True Shooting Percentage = 0.569
+Usage Percentage = 18.3
+Win Shares = 0.8
+VORP = 0.0
+
+James Bouknight:
+Position: SG
+Age: 23
+Team: CHO
+ Games Played: 3
+Minutes Played: 18
+Advanced Statistics:
+Player Efficiency Rating = 26.6
+True Shooting Percentage = 0.773
+Usage Percentage = 28.6
+Win Shares = 0.0
+VORP = 0.1
+
+Jamaree Bouyea:
+Position: PG
+Age: 24
+Team: POR
+ Games Played: 6
+Minutes Played: 57
+Advanced Statistics:
+Player Efficiency Rating = -4.6
+True Shooting Percentage = 0.238
+Usage Percentage = 21.5
+Win Shares = -0.3
+VORP = -0.2
+
+Malaki Branham:
+Position: SG
+Age: 20
+Team: SAS
+ Games Played: 27
+Minutes Played: 607
+Advanced Statistics:
+Player Efficiency Rating = 8.6
+True Shooting Percentage = 0.527
+Usage Percentage = 18.5
+Win Shares = -0.2
+VORP = -0.6
+
+Christian Braun:
+Position: SG
+Age: 22
+Team: DEN
+ Games Played: 29
+Minutes Played: 587
+Advanced Statistics:
+Player Efficiency Rating = 13.0
+True Shooting Percentage = 0.559
+Usage Percentage = 17.9
+Win Shares = 1.2
+VORP = 0.0
+
+Mikal Bridges:
+Position: SF
+Age: 27
+Team: BRK
+ Games Played: 27
+Minutes Played: 938
+Advanced Statistics:
+Player Efficiency Rating = 16.7
+True Shooting Percentage = 0.572
+Usage Percentage = 26.1
+Win Shares = 1.7
+VORP = 0.5
+
+Miles Bridges:
+Position: SF
+Age: 25
+Team: CHO
+ Games Played: 15
+Minutes Played: 544
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.567
+Usage Percentage = 22.4
+Win Shares = 0.6
+VORP = 0.0
+
+Oshae Brissett:
+Position: SF
+Age: 25
+Team: BOS
+ Games Played: 13
+Minutes Played: 130
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.546
+Usage Percentage = 11.7
+Win Shares = 0.3
+VORP = 0.0
+
+Malcolm Brogdon:
+Position: PG
+Age: 31
+Team: POR
+ Games Played: 20
+Minutes Played: 547
+Advanced Statistics:
+Player Efficiency Rating = 16.4
+True Shooting Percentage = 0.53
+Usage Percentage = 24.3
+Win Shares = 1.1
+VORP = 0.5
+
+Armoni Brooks:
+Position: PG
+Age: 25
+Team: BRK
+ Games Played: 7
+Minutes Played: 64
+Advanced Statistics:
+Player Efficiency Rating = 9.3
+True Shooting Percentage = 0.463
+Usage Percentage = 18.5
+Win Shares = 0.0
+VORP = 0.0
+
+Dillon Brooks:
+Position: SF
+Age: 28
+Team: HOU
+ Games Played: 25
+Minutes Played: 795
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.605
+Usage Percentage = 18.7
+Win Shares = 1.3
+VORP = -0.1
+
+Bruce Brown:
+Position: SG
+Age: 27
+Team: IND
+ Games Played: 27
+Minutes Played: 828
+Advanced Statistics:
+Player Efficiency Rating = 11.1
+True Shooting Percentage = 0.551
+Usage Percentage = 15.6
+Win Shares = 0.8
+VORP = -0.3
+
+Charlie Brown Jr.:
+Position: SG
+Age: 26
+Team: NYK
+ Games Played: 1
+Minutes Played: 2
+Advanced Statistics:
+Player Efficiency Rating = -69.0
+True Shooting Percentage = 0.0
+Usage Percentage = 63.5
+Win Shares = -0.1
+VORP = 0.0
+
+Greg Brown III:
+Position: PF
+Age: 22
+Team: DAL
+ Games Played: 3
+Minutes Played: 11
+Advanced Statistics:
+Player Efficiency Rating = 11.1
+True Shooting Percentage = 0.595
+Usage Percentage = 20.1
+Win Shares = 0.0
+VORP = 0.0
+
+Jaylen Brown:
+Position: SF
+Age: 27
+Team: BOS
+ Games Played: 26
+Minutes Played: 884
+Advanced Statistics:
+Player Efficiency Rating = 17.2
+True Shooting Percentage = 0.562
+Usage Percentage = 28.7
+Win Shares = 1.9
+VORP = 0.5
+
+Kobe Brown:
+Position: PF
+Age: 24
+Team: LAC
+ Games Played: 18
+Minutes Played: 173
+Advanced Statistics:
+Player Efficiency Rating = 5.1
+True Shooting Percentage = 0.467
+Usage Percentage = 11.7
+Win Shares = 0.1
+VORP = -0.2
+
+Moses Brown:
+Position: C
+Age: 24
+Team: POR
+ Games Played: 5
+Minutes Played: 35
+Advanced Statistics:
+Player Efficiency Rating = 18.2
+True Shooting Percentage = 0.466
+Usage Percentage = 16.7
+Win Shares = 0.1
+VORP = 0.0
+
+Troy Brown Jr.:
+Position: SF
+Age: 24
+Team: MIN
+ Games Played: 23
+Minutes Played: 340
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.627
+Usage Percentage = 15.0
+Win Shares = 1.0
+VORP = 0.2
+
+Jalen Brunson:
+Position: PG
+Age: 27
+Team: NYK
+ Games Played: 27
+Minutes Played: 958
+Advanced Statistics:
+Player Efficiency Rating = 20.7
+True Shooting Percentage = 0.594
+Usage Percentage = 28.1
+Win Shares = 3.4
+VORP = 1.5
+
+Thomas Bryant:
+Position: C
+Age: 26
+Team: MIA
+ Games Played: 18
+Minutes Played: 223
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.6
+Usage Percentage = 19.0
+Win Shares = 0.5
+VORP = -0.1
+
+Kobe Bufkin:
+Position: SG
+Age: 20
+Team: ATL
+ Games Played: 2
+Minutes Played: 4
+Advanced Statistics:
+Player Efficiency Rating = -9.9
+True Shooting Percentage = 0.129
+Usage Percentage = 39.7
+Win Shares = 0.0
+VORP = 0.0
+
+Reggie Bullock:
+Position: SF
+Age: 32
+Team: HOU
+ Games Played: 11
+Minutes Played: 93
+Advanced Statistics:
+Player Efficiency Rating = 5.5
+True Shooting Percentage = 0.514
+Usage Percentage = 10.5
+Win Shares = 0.1
+VORP = 0.0
+
+Alec Burks:
+Position: SG
+Age: 32
+Team: DET
+ Games Played: 21
+Minutes Played: 367
+Advanced Statistics:
+Player Efficiency Rating = 12.1
+True Shooting Percentage = 0.508
+Usage Percentage = 22.3
+Win Shares = 0.4
+VORP = 0.0
+
+Jared Butler:
+Position: SG
+Age: 23
+Team: WAS
+ Games Played: 13
+Minutes Played: 103
+Advanced Statistics:
+Player Efficiency Rating = 16.2
+True Shooting Percentage = 0.629
+Usage Percentage = 22.0
+Win Shares = 0.2
+VORP = 0.0
+
+Jimmy Butler:
+Position: PF
+Age: 34
+Team: MIA
+ Games Played: 23
+Minutes Played: 783
+Advanced Statistics:
+Player Efficiency Rating = 21.0
+True Shooting Percentage = 0.594
+Usage Percentage = 25.8
+Win Shares = 2.8
+VORP = 0.8
+
+Jamal Cain:
+Position: PF
+Age: 24
+Team: MIA
+ Games Played: 8
+Minutes Played: 113
+Advanced Statistics:
+Player Efficiency Rating = 10.7
+True Shooting Percentage = 0.547
+Usage Percentage = 14.0
+Win Shares = 0.2
+VORP = 0.0
+
+Kentavious Caldwell-Pope:
+Position: SG
+Age: 30
+Team: DEN
+ Games Played: 27
+Minutes Played: 880
+Advanced Statistics:
+Player Efficiency Rating = 10.6
+True Shooting Percentage = 0.601
+Usage Percentage = 13.0
+Win Shares = 1.7
+VORP = 0.1
+
+Toumani Camara:
+Position: PF
+Age: 23
+Team: POR
+ Games Played: 27
+Minutes Played: 675
+Advanced Statistics:
+Player Efficiency Rating = 9.4
+True Shooting Percentage = 0.51
+Usage Percentage = 13.6
+Win Shares = 0.7
+VORP = -0.3
+
+Clint Capela:
+Position: C
+Age: 29
+Team: ATL
+ Games Played: 26
+Minutes Played: 670
+Advanced Statistics:
+Player Efficiency Rating = 22.4
+True Shooting Percentage = 0.607
+Usage Percentage = 16.7
+Win Shares = 2.7
+VORP = 0.6
+
+Jevon Carter:
+Position: PG
+Age: 28
+Team: CHI
+ Games Played: 30
+Minutes Played: 434
+Advanced Statistics:
+Player Efficiency Rating = 8.3
+True Shooting Percentage = 0.493
+Usage Percentage = 18.2
+Win Shares = 0.1
+VORP = -0.2
+
+Wendell Carter Jr.:
+Position: C
+Age: 24
+Team: ORL
+ Games Played: 7
+Minutes Played: 192
+Advanced Statistics:
+Player Efficiency Rating = 8.9
+True Shooting Percentage = 0.475
+Usage Percentage = 15.4
+Win Shares = 0.2
+VORP = -0.1
+
+Alex Caruso:
+Position: SG
+Age: 29
+Team: CHI
+ Games Played: 24
+Minutes Played: 555
+Advanced Statistics:
+Player Efficiency Rating = 16.7
+True Shooting Percentage = 0.694
+Usage Percentage = 15.8
+Win Shares = 1.6
+VORP = 0.8
+
+Colin Castleton:
+Position: C
+Age: 23
+Team: LAL
+ Games Played: 4
+Minutes Played: 28
+Advanced Statistics:
+Player Efficiency Rating = 17.5
+True Shooting Percentage = 0.676
+Usage Percentage = 13.7
+Win Shares = 0.1
+VORP = 0.0
+
+Malcolm Cazalon:
+Position: SG
+Age: 22
+Team: DET
+ Games Played: 1
+Minutes Played: 3
+Advanced Statistics:
+Player Efficiency Rating = 0.0
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Julian Champagnie:
+Position: SF
+Age: 22
+Team: SAS
+ Games Played: 20
+Minutes Played: 255
+Advanced Statistics:
+Player Efficiency Rating = 10.0
+True Shooting Percentage = 0.555
+Usage Percentage = 17.4
+Win Shares = 0.0
+VORP = 0.0
+
+Max Christie:
+Position: SG
+Age: 20
+Team: LAL
+ Games Played: 22
+Minutes Played: 362
+Advanced Statistics:
+Player Efficiency Rating = 5.7
+True Shooting Percentage = 0.479
+Usage Percentage = 13.6
+Win Shares = 0.0
+VORP = -0.4
+
+Sidy Cissoko:
+Position: SF
+Age: 19
+Team: SAS
+ Games Played: 2
+Minutes Played: 7
+Advanced Statistics:
+Player Efficiency Rating = -6.8
+True Shooting Percentage = None
+Usage Percentage = 6.0
+Win Shares = 0.0
+VORP = 0.0
+
+Jordan Clarkson:
+Position: SG
+Age: 31
+Team: UTA
+ Games Played: 19
+Minutes Played: 586
+Advanced Statistics:
+Player Efficiency Rating = 11.6
+True Shooting Percentage = 0.498
+Usage Percentage = 26.5
+Win Shares = -0.2
+VORP = -0.4
+
+Nic Claxton:
+Position: C
+Age: 24
+Team: BRK
+ Games Played: 18
+Minutes Played: 487
+Advanced Statistics:
+Player Efficiency Rating = 21.1
+True Shooting Percentage = 0.658
+Usage Percentage = 15.4
+Win Shares = 1.9
+VORP = 0.5
+
+Noah Clowney:
+Position: PF
+Age: 19
+Team: BRK
+ Games Played: 1
+Minutes Played: 3
+Advanced Statistics:
+Player Efficiency Rating = 4.1
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Amir Coffey:
+Position: SF
+Age: 26
+Team: LAC
+ Games Played: 16
+Minutes Played: 204
+Advanced Statistics:
+Player Efficiency Rating = 6.7
+True Shooting Percentage = 0.562
+Usage Percentage = 12.0
+Win Shares = 0.2
+VORP = -0.2
+
+John Collins:
+Position: PF
+Age: 26
+Team: UTA
+ Games Played: 25
+Minutes Played: 757
+Advanced Statistics:
+Player Efficiency Rating = 14.3
+True Shooting Percentage = 0.577
+Usage Percentage = 19.2
+Win Shares = 1.1
+VORP = -0.1
+
+Zach Collins:
+Position: C
+Age: 26
+Team: SAS
+ Games Played: 27
+Minutes Played: 729
+Advanced Statistics:
+Player Efficiency Rating = 13.7
+True Shooting Percentage = 0.579
+Usage Percentage = 21.3
+Win Shares = 0.6
+VORP = 0.0
+
+Mike Conley:
+Position: PG
+Age: 36
+Team: MIN
+ Games Played: 27
+Minutes Played: 795
+Advanced Statistics:
+Player Efficiency Rating = 15.7
+True Shooting Percentage = 0.641
+Usage Percentage = 14.9
+Win Shares = 3.3
+VORP = 1.0
+
+Pat Connaughton:
+Position: SF
+Age: 31
+Team: MIL
+ Games Played: 22
+Minutes Played: 485
+Advanced Statistics:
+Player Efficiency Rating = 9.3
+True Shooting Percentage = 0.54
+Usage Percentage = 11.4
+Win Shares = 0.7
+VORP = 0.0
+
+Bilal Coulibaly:
+Position: SF
+Age: 19
+Team: WAS
+ Games Played: 26
+Minutes Played: 691
+Advanced Statistics:
+Player Efficiency Rating = 10.8
+True Shooting Percentage = 0.631
+Usage Percentage = 13.9
+Win Shares = 0.4
+VORP = -0.2
+
+Robert Covington:
+Position: SF-PF
+Age: 33
+Team: TOT
+ Games Played: 25
+Minutes Played: 432
+Advanced Statistics:
+Player Efficiency Rating = 13.9
+True Shooting Percentage = 0.593
+Usage Percentage = 10.7
+Win Shares = 1.5
+VORP = 0.5
+
+Robert Covington:
+Position: PF
+Age: 33
+Team: LAC
+ Games Played: 3
+Minutes Played: 69
+Advanced Statistics:
+Player Efficiency Rating = 10.5
+True Shooting Percentage = 0.455
+Usage Percentage = 6.2
+Win Shares = 0.2
+VORP = 0.1
+
+Robert Covington:
+Position: SF
+Age: 33
+Team: PHI
+ Games Played: 22
+Minutes Played: 363
+Advanced Statistics:
+Player Efficiency Rating = 14.6
+True Shooting Percentage = 0.608
+Usage Percentage = 11.6
+Win Shares = 1.3
+VORP = 0.4
+
+Torrey Craig:
+Position: SF
+Age: 33
+Team: CHI
+ Games Played: 27
+Minutes Played: 572
+Advanced Statistics:
+Player Efficiency Rating = 11.3
+True Shooting Percentage = 0.553
+Usage Percentage = 12.6
+Win Shares = 1.1
+VORP = 0.0
+
+Jae Crowder:
+Position: PF
+Age: 33
+Team: MIL
+ Games Played: 9
+Minutes Played: 240
+Advanced Statistics:
+Player Efficiency Rating = 11.8
+True Shooting Percentage = 0.698
+Usage Percentage = 9.9
+Win Shares = 0.6
+VORP = 0.2
+
+Cade Cunningham:
+Position: PG
+Age: 22
+Team: DET
+ Games Played: 28
+Minutes Played: 975
+Advanced Statistics:
+Player Efficiency Rating = 14.5
+True Shooting Percentage = 0.531
+Usage Percentage = 30.3
+Win Shares = -0.1
+VORP = -0.1
+
+Seth Curry:
+Position: SG
+Age: 33
+Team: DAL
+ Games Played: 21
+Minutes Played: 251
+Advanced Statistics:
+Player Efficiency Rating = 11.7
+True Shooting Percentage = 0.538
+Usage Percentage = 15.8
+Win Shares = 0.4
+VORP = 0.0
+
+Stephen Curry:
+Position: PG
+Age: 35
+Team: GSW
+ Games Played: 25
+Minutes Played: 847
+Advanced Statistics:
+Player Efficiency Rating = 21.5
+True Shooting Percentage = 0.652
+Usage Percentage = 30.8
+Win Shares = 2.8
+VORP = 1.8
+
+Dyson Daniels:
+Position: PG
+Age: 20
+Team: NOP
+ Games Played: 29
+Minutes Played: 687
+Advanced Statistics:
+Player Efficiency Rating = 10.8
+True Shooting Percentage = 0.484
+Usage Percentage = 13.5
+Win Shares = 1.0
+VORP = 0.2
+
+Anthony Davis:
+Position: C
+Age: 30
+Team: LAL
+ Games Played: 27
+Minutes Played: 958
+Advanced Statistics:
+Player Efficiency Rating = 25.6
+True Shooting Percentage = 0.613
+Usage Percentage = 26.4
+Win Shares = 4.3
+VORP = 1.7
+
+Johnny Davis:
+Position: SG
+Age: 21
+Team: WAS
+ Games Played: 14
+Minutes Played: 128
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.509
+Usage Percentage = 15.5
+Win Shares = 0.0
+VORP = -0.1
+
+Dexter Dennis:
+Position: SG
+Age: 24
+Team: DAL
+ Games Played: 2
+Minutes Played: 7
+Advanced Statistics:
+Player Efficiency Rating = 3.8
+True Shooting Percentage = 0.311
+Usage Percentage = 39.0
+Win Shares = 0.0
+VORP = 0.0
+
+DeMar DeRozan:
+Position: SF
+Age: 34
+Team: CHI
+ Games Played: 28
+Minutes Played: 1018
+Advanced Statistics:
+Player Efficiency Rating = 19.1
+True Shooting Percentage = 0.553
+Usage Percentage = 26.0
+Win Shares = 2.8
+VORP = 1.0
+
+Moussa Diabaté:
+Position: C
+Age: 22
+Team: LAC
+ Games Played: 9
+Minutes Played: 55
+Advanced Statistics:
+Player Efficiency Rating = 24.7
+True Shooting Percentage = 0.58
+Usage Percentage = 19.8
+Win Shares = 0.3
+VORP = 0.1
+
+Gradey Dick:
+Position: SG
+Age: 20
+Team: TOR
+ Games Played: 17
+Minutes Played: 227
+Advanced Statistics:
+Player Efficiency Rating = 3.2
+True Shooting Percentage = 0.431
+Usage Percentage = 15.9
+Win Shares = -0.2
+VORP = -0.4
+
+Ousmane Dieng:
+Position: PF
+Age: 20
+Team: OKC
+ Games Played: 17
+Minutes Played: 191
+Advanced Statistics:
+Player Efficiency Rating = 11.3
+True Shooting Percentage = 0.596
+Usage Percentage = 15.1
+Win Shares = 0.4
+VORP = 0.0
+
+Spencer Dinwiddie:
+Position: PG
+Age: 30
+Team: BRK
+ Games Played: 26
+Minutes Played: 827
+Advanced Statistics:
+Player Efficiency Rating = 15.2
+True Shooting Percentage = 0.541
+Usage Percentage = 20.5
+Win Shares = 1.8
+VORP = 0.4
+
+Donte DiVincenzo:
+Position: SG
+Age: 27
+Team: NYK
+ Games Played: 27
+Minutes Played: 556
+Advanced Statistics:
+Player Efficiency Rating = 15.8
+True Shooting Percentage = 0.629
+Usage Percentage = 18.0
+Win Shares = 1.7
+VORP = 0.8
+
+Luka Dončić:
+Position: PG
+Age: 24
+Team: DAL
+ Games Played: 26
+Minutes Played: 962
+Advanced Statistics:
+Player Efficiency Rating = 26.8
+True Shooting Percentage = 0.61
+Usage Percentage = 35.3
+Win Shares = 3.8
+VORP = 2.6
+
+Luguentz Dort:
+Position: SF
+Age: 24
+Team: OKC
+ Games Played: 25
+Minutes Played: 703
+Advanced Statistics:
+Player Efficiency Rating = 12.6
+True Shooting Percentage = 0.616
+Usage Percentage = 15.1
+Win Shares = 1.8
+VORP = 0.3
+
+Ayo Dosunmu:
+Position: SG
+Age: 24
+Team: CHI
+ Games Played: 28
+Minutes Played: 590
+Advanced Statistics:
+Player Efficiency Rating = 11.5
+True Shooting Percentage = 0.594
+Usage Percentage = 14.6
+Win Shares = 1.0
+VORP = 0.0
+
+Andre Drummond:
+Position: C
+Age: 30
+Team: CHI
+ Games Played: 30
+Minutes Played: 404
+Advanced Statistics:
+Player Efficiency Rating = 23.0
+True Shooting Percentage = 0.544
+Usage Percentage = 22.4
+Win Shares = 1.4
+VORP = 0.2
+
+Chris Duarte:
+Position: SF
+Age: 26
+Team: SAC
+ Games Played: 23
+Minutes Played: 285
+Advanced Statistics:
+Player Efficiency Rating = 5.9
+True Shooting Percentage = 0.489
+Usage Percentage = 14.8
+Win Shares = 0.1
+VORP = -0.3
+
+Kris Dunn:
+Position: PG
+Age: 29
+Team: UTA
+ Games Played: 21
+Minutes Played: 312
+Advanced Statistics:
+Player Efficiency Rating = 12.3
+True Shooting Percentage = 0.554
+Usage Percentage = 16.9
+Win Shares = 0.3
+VORP = -0.1
+
+Kevin Durant:
+Position: PF
+Age: 35
+Team: PHO
+ Games Played: 23
+Minutes Played: 844
+Advanced Statistics:
+Player Efficiency Rating = 24.4
+True Shooting Percentage = 0.633
+Usage Percentage = 32.8
+Win Shares = 3.0
+VORP = 1.7
+
+Jalen Duren:
+Position: C
+Age: 20
+Team: DET
+ Games Played: 14
+Minutes Played: 404
+Advanced Statistics:
+Player Efficiency Rating = 16.9
+True Shooting Percentage = 0.632
+Usage Percentage = 18.4
+Win Shares = 0.6
+VORP = 0.1
+
+Tari Eason:
+Position: PF
+Age: 22
+Team: HOU
+ Games Played: 17
+Minutes Played: 357
+Advanced Statistics:
+Player Efficiency Rating = 17.4
+True Shooting Percentage = 0.55
+Usage Percentage = 19.7
+Win Shares = 1.1
+VORP = 0.4
+
+Anthony Edwards:
+Position: SG
+Age: 22
+Team: MIN
+ Games Played: 24
+Minutes Played: 820
+Advanced Statistics:
+Player Efficiency Rating = 19.3
+True Shooting Percentage = 0.569
+Usage Percentage = 31.6
+Win Shares = 2.3
+VORP = 1.1
+
+Kessler Edwards:
+Position: SF
+Age: 23
+Team: SAC
+ Games Played: 21
+Minutes Played: 115
+Advanced Statistics:
+Player Efficiency Rating = 8.9
+True Shooting Percentage = 0.533
+Usage Percentage = 12.1
+Win Shares = 0.1
+VORP = 0.0
+
+Keon Ellis:
+Position: SG
+Age: 24
+Team: SAC
+ Games Played: 19
+Minutes Played: 262
+Advanced Statistics:
+Player Efficiency Rating = 11.9
+True Shooting Percentage = 0.622
+Usage Percentage = 13.7
+Win Shares = 0.5
+VORP = 0.2
+
+Joel Embiid:
+Position: C
+Age: 29
+Team: PHI
+ Games Played: 24
+Minutes Played: 819
+Advanced Statistics:
+Player Efficiency Rating = 35.0
+True Shooting Percentage = 0.652
+Usage Percentage = 37.8
+Win Shares = 5.6
+VORP = 3.0
+
+Drew Eubanks:
+Position: C
+Age: 26
+Team: PHO
+ Games Played: 26
+Minutes Played: 444
+Advanced Statistics:
+Player Efficiency Rating = 15.5
+True Shooting Percentage = 0.659
+Usage Percentage = 15.5
+Win Shares = 1.1
+VORP = 0.0
+
+Dante Exum:
+Position: PG
+Age: 28
+Team: DAL
+ Games Played: 24
+Minutes Played: 418
+Advanced Statistics:
+Player Efficiency Rating = 18.0
+True Shooting Percentage = 0.656
+Usage Percentage = 17.5
+Win Shares = 1.5
+VORP = 0.4
+
+Bruno Fernando:
+Position: C
+Age: 25
+Team: ATL
+ Games Played: 7
+Minutes Played: 33
+Advanced Statistics:
+Player Efficiency Rating = 13.9
+True Shooting Percentage = 0.536
+Usage Percentage = 28.0
+Win Shares = 0.0
+VORP = 0.0
+
+Dorian Finney-Smith:
+Position: PF
+Age: 30
+Team: BRK
+ Games Played: 25
+Minutes Played: 733
+Advanced Statistics:
+Player Efficiency Rating = 12.0
+True Shooting Percentage = 0.613
+Usage Percentage = 13.4
+Win Shares = 1.4
+VORP = 0.2
+
+Malachi Flynn:
+Position: PG
+Age: 25
+Team: TOR
+ Games Played: 27
+Minutes Played: 440
+Advanced Statistics:
+Player Efficiency Rating = 10.1
+True Shooting Percentage = 0.534
+Usage Percentage = 15.9
+Win Shares = 0.5
+VORP = -0.1
+
+Simone Fontecchio:
+Position: SF
+Age: 28
+Team: UTA
+ Games Played: 27
+Minutes Played: 569
+Advanced Statistics:
+Player Efficiency Rating = 11.4
+True Shooting Percentage = 0.595
+Usage Percentage = 16.4
+Win Shares = 0.7
+VORP = 0.0
+
+Jordan Ford:
+Position: PG
+Age: 25
+Team: SAC
+ Games Played: 6
+Minutes Played: 22
+Advanced Statistics:
+Player Efficiency Rating = 16.6
+True Shooting Percentage = 0.761
+Usage Percentage = 17.1
+Win Shares = 0.1
+VORP = 0.0
+
+Trent Forrest:
+Position: SG
+Age: 25
+Team: ATL
+ Games Played: 7
+Minutes Played: 61
+Advanced Statistics:
+Player Efficiency Rating = 5.7
+True Shooting Percentage = 0.298
+Usage Percentage = 13.2
+Win Shares = 0.0
+VORP = -0.1
+
+Evan Fournier:
+Position: SG
+Age: 31
+Team: NYK
+ Games Played: 1
+Minutes Played: 16
+Advanced Statistics:
+Player Efficiency Rating = -3.2
+True Shooting Percentage = 0.167
+Usage Percentage = 15.9
+Win Shares = -0.1
+VORP = -0.1
+
+De'Aaron Fox:
+Position: PG
+Age: 26
+Team: SAC
+ Games Played: 20
+Minutes Played: 699
+Advanced Statistics:
+Player Efficiency Rating = 23.4
+True Shooting Percentage = 0.595
+Usage Percentage = 33.6
+Win Shares = 2.3
+VORP = 1.1
+
+Alex Fudge:
+Position: SF
+Age: 20
+Team: LAL
+ Games Played: 4
+Minutes Played: 14
+Advanced Statistics:
+Player Efficiency Rating = -1.8
+True Shooting Percentage = 0.291
+Usage Percentage = 24.3
+Win Shares = -0.1
+VORP = -0.1
+
+Markelle Fultz:
+Position: PG
+Age: 25
+Team: ORL
+ Games Played: 5
+Minutes Played: 143
+Advanced Statistics:
+Player Efficiency Rating = 13.4
+True Shooting Percentage = 0.493
+Usage Percentage = 18.8
+Win Shares = 0.2
+VORP = 0.1
+
+Daniel Gafford:
+Position: C
+Age: 25
+Team: WAS
+ Games Played: 24
+Minutes Played: 614
+Advanced Statistics:
+Player Efficiency Rating = 19.8
+True Shooting Percentage = 0.708
+Usage Percentage = 14.4
+Win Shares = 2.2
+VORP = 0.4
+
+Danilo Gallinari:
+Position: PF
+Age: 35
+Team: WAS
+ Games Played: 24
+Minutes Played: 364
+Advanced Statistics:
+Player Efficiency Rating = 13.9
+True Shooting Percentage = 0.587
+Usage Percentage = 18.2
+Win Shares = 0.6
+VORP = 0.0
+
+Darius Garland:
+Position: PG
+Age: 24
+Team: CLE
+ Games Played: 20
+Minutes Played: 680
+Advanced Statistics:
+Player Efficiency Rating = 16.0
+True Shooting Percentage = 0.573
+Usage Percentage = 27.8
+Win Shares = 0.8
+VORP = 0.3
+
+Luka Garza:
+Position: C
+Age: 25
+Team: MIN
+ Games Played: 6
+Minutes Played: 18
+Advanced Statistics:
+Player Efficiency Rating = 11.7
+True Shooting Percentage = 0.419
+Usage Percentage = 39.9
+Win Shares = 0.0
+VORP = -0.1
+
+Kaiser Gates:
+Position: SF
+Age: 27
+Team: NOP
+ Games Played: 1
+Minutes Played: 7
+Advanced Statistics:
+Player Efficiency Rating = -19.2
+True Shooting Percentage = 0.0
+Usage Percentage = 24.3
+Win Shares = -0.1
+VORP = -0.1
+
+Keyonte George:
+Position: PG
+Age: 20
+Team: UTA
+ Games Played: 24
+Minutes Played: 618
+Advanced Statistics:
+Player Efficiency Rating = 10.2
+True Shooting Percentage = 0.5
+Usage Percentage = 21.3
+Win Shares = 0.0
+VORP = -0.3
+
+Paul George:
+Position: PF
+Age: 33
+Team: LAC
+ Games Played: 26
+Minutes Played: 900
+Advanced Statistics:
+Player Efficiency Rating = 19.0
+True Shooting Percentage = 0.593
+Usage Percentage = 26.8
+Win Shares = 2.7
+VORP = 1.1
+
+Taj Gibson:
+Position: PF
+Age: 38
+Team: NYK
+ Games Played: 4
+Minutes Played: 27
+Advanced Statistics:
+Player Efficiency Rating = 5.9
+True Shooting Percentage = 0.4
+Usage Percentage = 9.4
+Win Shares = 0.0
+VORP = 0.0
+
+Josh Giddey:
+Position: SG
+Age: 21
+Team: OKC
+ Games Played: 26
+Minutes Played: 655
+Advanced Statistics:
+Player Efficiency Rating = 13.6
+True Shooting Percentage = 0.494
+Usage Percentage = 24.6
+Win Shares = 0.4
+VORP = 0.1
+
+Harry Giles:
+Position: C
+Age: 25
+Team: BRK
+ Games Played: 7
+Minutes Played: 42
+Advanced Statistics:
+Player Efficiency Rating = 25.5
+True Shooting Percentage = 0.628
+Usage Percentage = 29.3
+Win Shares = 0.1
+VORP = 0.1
+
+Shai Gilgeous-Alexander:
+Position: PG
+Age: 25
+Team: OKC
+ Games Played: 25
+Minutes Played: 865
+Advanced Statistics:
+Player Efficiency Rating = 30.8
+True Shooting Percentage = 0.63
+Usage Percentage = 32.8
+Win Shares = 5.3
+VORP = 2.8
+
+Anthony Gill:
+Position: PF
+Age: 31
+Team: WAS
+ Games Played: 18
+Minutes Played: 116
+Advanced Statistics:
+Player Efficiency Rating = 10.3
+True Shooting Percentage = 0.523
+Usage Percentage = 17.9
+Win Shares = 0.0
+VORP = -0.1
+
+Collin Gillespie:
+Position: PG
+Age: 24
+Team: DEN
+ Games Played: 11
+Minutes Played: 86
+Advanced Statistics:
+Player Efficiency Rating = 5.9
+True Shooting Percentage = 0.489
+Usage Percentage = 12.2
+Win Shares = 0.0
+VORP = -0.1
+
+Jacob Gilyard:
+Position: PG
+Age: 25
+Team: MEM
+ Games Played: 19
+Minutes Played: 299
+Advanced Statistics:
+Player Efficiency Rating = 10.6
+True Shooting Percentage = 0.599
+Usage Percentage = 10.2
+Win Shares = 0.6
+VORP = 0.0
+
+Rudy Gobert:
+Position: C
+Age: 31
+Team: MIN
+ Games Played: 27
+Minutes Played: 865
+Advanced Statistics:
+Player Efficiency Rating = 18.4
+True Shooting Percentage = 0.626
+Usage Percentage = 15.6
+Win Shares = 3.6
+VORP = 0.8
+
+Jordan Goodwin:
+Position: PG
+Age: 25
+Team: PHO
+ Games Played: 27
+Minutes Played: 495
+Advanced Statistics:
+Player Efficiency Rating = 12.3
+True Shooting Percentage = 0.483
+Usage Percentage = 17.4
+Win Shares = 0.7
+VORP = 0.1
+
+Aaron Gordon:
+Position: PF
+Age: 28
+Team: DEN
+ Games Played: 25
+Minutes Played: 800
+Advanced Statistics:
+Player Efficiency Rating = 15.9
+True Shooting Percentage = 0.551
+Usage Percentage = 18.2
+Win Shares = 1.9
+VORP = 0.5
+
+Eric Gordon:
+Position: SG
+Age: 35
+Team: PHO
+ Games Played: 23
+Minutes Played: 732
+Advanced Statistics:
+Player Efficiency Rating = 11.9
+True Shooting Percentage = 0.584
+Usage Percentage = 18.0
+Win Shares = 0.9
+VORP = 0.1
+
+Devonte' Graham:
+Position: PG
+Age: 28
+Team: SAS
+ Games Played: 5
+Minutes Played: 52
+Advanced Statistics:
+Player Efficiency Rating = 14.0
+True Shooting Percentage = 0.497
+Usage Percentage = 13.8
+Win Shares = 0.1
+VORP = 0.0
+
+Jerami Grant:
+Position: PF
+Age: 29
+Team: POR
+ Games Played: 23
+Minutes Played: 811
+Advanced Statistics:
+Player Efficiency Rating = 15.9
+True Shooting Percentage = 0.586
+Usage Percentage = 25.9
+Win Shares = 1.4
+VORP = 0.5
+
+A.J. Green:
+Position: SG
+Age: 24
+Team: MIL
+ Games Played: 19
+Minutes Played: 147
+Advanced Statistics:
+Player Efficiency Rating = 11.7
+True Shooting Percentage = 0.63
+Usage Percentage = 13.9
+Win Shares = 0.4
+VORP = 0.0
+
+Danny Green:
+Position: SG
+Age: 36
+Team: PHI
+ Games Played: 2
+Minutes Played: 18
+Advanced Statistics:
+Player Efficiency Rating = 0.8
+True Shooting Percentage = 0.0
+Usage Percentage = 4.7
+Win Shares = 0.0
+VORP = 0.0
+
+Draymond Green:
+Position: PF
+Age: 33
+Team: GSW
+ Games Played: 15
+Minutes Played: 377
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.619
+Usage Percentage = 16.9
+Win Shares = 1.0
+VORP = 0.5
+
+Jalen Green:
+Position: SG
+Age: 21
+Team: HOU
+ Games Played: 25
+Minutes Played: 775
+Advanced Statistics:
+Player Efficiency Rating = 12.4
+True Shooting Percentage = 0.526
+Usage Percentage = 26.4
+Win Shares = 0.7
+VORP = 0.1
+
+Jeff Green:
+Position: PF
+Age: 37
+Team: HOU
+ Games Played: 24
+Minutes Played: 377
+Advanced Statistics:
+Player Efficiency Rating = 14.8
+True Shooting Percentage = 0.7
+Usage Percentage = 16.3
+Win Shares = 1.3
+VORP = 0.2
+
+Josh Green:
+Position: SG
+Age: 23
+Team: DAL
+ Games Played: 18
+Minutes Played: 454
+Advanced Statistics:
+Player Efficiency Rating = 8.7
+True Shooting Percentage = 0.532
+Usage Percentage = 12.5
+Win Shares = 0.4
+VORP = -0.1
+
+AJ Griffin:
+Position: SF
+Age: 20
+Team: ATL
+ Games Played: 12
+Minutes Played: 110
+Advanced Statistics:
+Player Efficiency Rating = 3.1
+True Shooting Percentage = 0.43
+Usage Percentage = 14.4
+Win Shares = -0.1
+VORP = -0.1
+
+Quentin Grimes:
+Position: SG
+Age: 23
+Team: NYK
+ Games Played: 25
+Minutes Played: 541
+Advanced Statistics:
+Player Efficiency Rating = 7.0
+True Shooting Percentage = 0.522
+Usage Percentage = 13.2
+Win Shares = 0.5
+VORP = -0.2
+
+Mouhamed Gueye:
+Position: PF
+Age: 21
+Team: ATL
+ Games Played: 2
+Minutes Played: 4
+Advanced Statistics:
+Player Efficiency Rating = -0.6
+True Shooting Percentage = 0.0
+Usage Percentage = 10.2
+Win Shares = 0.0
+VORP = 0.0
+
+Rui Hachimura:
+Position: PF
+Age: 25
+Team: LAL
+ Games Played: 20
+Minutes Played: 475
+Advanced Statistics:
+Player Efficiency Rating = 13.4
+True Shooting Percentage = 0.576
+Usage Percentage = 19.8
+Win Shares = 0.8
+VORP = 0.0
+
+Tyrese Haliburton:
+Position: PG
+Age: 23
+Team: IND
+ Games Played: 24
+Minutes Played: 807
+Advanced Statistics:
+Player Efficiency Rating = 25.6
+True Shooting Percentage = 0.637
+Usage Percentage = 26.6
+Win Shares = 3.6
+VORP = 1.9
+
+R.J. Hampton:
+Position: PG
+Age: 22
+Team: MIA
+ Games Played: 2
+Minutes Played: 11
+Advanced Statistics:
+Player Efficiency Rating = 3.5
+True Shooting Percentage = 0.75
+Usage Percentage = 12.0
+Win Shares = 0.0
+VORP = 0.0
+
+Tim Hardaway Jr.:
+Position: SF
+Age: 31
+Team: DAL
+ Games Played: 24
+Minutes Played: 690
+Advanced Statistics:
+Player Efficiency Rating = 13.6
+True Shooting Percentage = 0.56
+Usage Percentage = 24.3
+Win Shares = 0.8
+VORP = 0.0
+
+James Harden:
+Position: SG
+Age: 34
+Team: LAC
+ Games Played: 23
+Minutes Played: 775
+Advanced Statistics:
+Player Efficiency Rating = 20.6
+True Shooting Percentage = 0.66
+Usage Percentage = 19.9
+Win Shares = 3.4
+VORP = 1.6
+
+Jaden Hardy:
+Position: SG
+Age: 21
+Team: DAL
+ Games Played: 23
+Minutes Played: 303
+Advanced Statistics:
+Player Efficiency Rating = 11.0
+True Shooting Percentage = 0.501
+Usage Percentage = 24.9
+Win Shares = 0.0
+VORP = -0.2
+
+Ron Harper Jr.:
+Position: PF
+Age: 23
+Team: TOR
+ Games Played: 1
+Minutes Played: 4
+Advanced Statistics:
+Player Efficiency Rating = -0.1
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Gary Harris:
+Position: SG
+Age: 29
+Team: ORL
+ Games Played: 22
+Minutes Played: 489
+Advanced Statistics:
+Player Efficiency Rating = 10.6
+True Shooting Percentage = 0.57
+Usage Percentage = 12.6
+Win Shares = 1.2
+VORP = 0.2
+
+Joe Harris:
+Position: SG
+Age: 32
+Team: DET
+ Games Played: 11
+Minutes Played: 132
+Advanced Statistics:
+Player Efficiency Rating = 4.3
+True Shooting Percentage = 0.439
+Usage Percentage = 11.1
+Win Shares = 0.0
+VORP = -0.1
+
+Tobias Harris:
+Position: PF
+Age: 31
+Team: PHI
+ Games Played: 27
+Minutes Played: 910
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.607
+Usage Percentage = 18.6
+Win Shares = 2.4
+VORP = 0.4
+
+Shaquille Harrison:
+Position: SG
+Age: 30
+Team: MEM
+ Games Played: 3
+Minutes Played: 6
+Advanced Statistics:
+Player Efficiency Rating = 16.0
+True Shooting Percentage = 0.5
+Usage Percentage = 14.2
+Win Shares = 0.0
+VORP = 0.0
+
+Josh Hart:
+Position: SF
+Age: 28
+Team: NYK
+ Games Played: 27
+Minutes Played: 748
+Advanced Statistics:
+Player Efficiency Rating = 11.5
+True Shooting Percentage = 0.558
+Usage Percentage = 12.2
+Win Shares = 1.6
+VORP = 0.4
+
+Isaiah Hartenstein:
+Position: C
+Age: 25
+Team: NYK
+ Games Played: 27
+Minutes Played: 555
+Advanced Statistics:
+Player Efficiency Rating = 16.5
+True Shooting Percentage = 0.618
+Usage Percentage = 11.8
+Win Shares = 1.9
+VORP = 0.3
+
+Sam Hauser:
+Position: SF
+Age: 26
+Team: BOS
+ Games Played: 27
+Minutes Played: 620
+Advanced Statistics:
+Player Efficiency Rating = 13.0
+True Shooting Percentage = 0.655
+Usage Percentage = 13.9
+Win Shares = 1.9
+VORP = 0.6
+
+Jordan Hawkins:
+Position: SG
+Age: 21
+Team: NOP
+ Games Played: 27
+Minutes Played: 644
+Advanced Statistics:
+Player Efficiency Rating = 10.1
+True Shooting Percentage = 0.537
+Usage Percentage = 19.3
+Win Shares = 0.7
+VORP = -0.2
+
+Jaxson Hayes:
+Position: C
+Age: 23
+Team: LAL
+ Games Played: 26
+Minutes Played: 283
+Advanced Statistics:
+Player Efficiency Rating = 8.7
+True Shooting Percentage = 0.67
+Usage Percentage = 11.7
+Win Shares = 0.5
+VORP = -0.2
+
+Killian Hayes:
+Position: PG
+Age: 22
+Team: DET
+ Games Played: 25
+Minutes Played: 660
+Advanced Statistics:
+Player Efficiency Rating = 11.6
+True Shooting Percentage = 0.492
+Usage Percentage = 16.4
+Win Shares = 0.5
+VORP = 0.1
+
+Gordon Hayward:
+Position: SF
+Age: 33
+Team: CHO
+ Games Played: 23
+Minutes Played: 743
+Advanced Statistics:
+Player Efficiency Rating = 14.6
+True Shooting Percentage = 0.546
+Usage Percentage = 21.0
+Win Shares = 0.6
+VORP = 0.0
+
+Scoot Henderson:
+Position: PG
+Age: 19
+Team: POR
+ Games Played: 18
+Minutes Played: 473
+Advanced Statistics:
+Player Efficiency Rating = 5.1
+True Shooting Percentage = 0.447
+Usage Percentage = 24.3
+Win Shares = -0.9
+VORP = -0.9
+
+Taylor Hendricks:
+Position: PF
+Age: 20
+Team: UTA
+ Games Played: 10
+Minutes Played: 172
+Advanced Statistics:
+Player Efficiency Rating = 10.6
+True Shooting Percentage = 0.522
+Usage Percentage = 15.1
+Win Shares = 0.1
+VORP = -0.1
+
+Tyler Herro:
+Position: SG
+Age: 24
+Team: MIA
+ Games Played: 10
+Minutes Played: 341
+Advanced Statistics:
+Player Efficiency Rating = 18.6
+True Shooting Percentage = 0.586
+Usage Percentage = 29.5
+Win Shares = 0.6
+VORP = 0.4
+
+Buddy Hield:
+Position: SF
+Age: 31
+Team: IND
+ Games Played: 27
+Minutes Played: 700
+Advanced Statistics:
+Player Efficiency Rating = 13.5
+True Shooting Percentage = 0.588
+Usage Percentage = 20.1
+Win Shares = 0.7
+VORP = 0.2
+
+Haywood Highsmith:
+Position: PF
+Age: 27
+Team: MIA
+ Games Played: 18
+Minutes Played: 390
+Advanced Statistics:
+Player Efficiency Rating = 10.2
+True Shooting Percentage = 0.553
+Usage Percentage = 13.6
+Win Shares = 0.6
+VORP = 0.1
+
+Nate Hinton:
+Position: SG
+Age: 24
+Team: HOU
+ Games Played: 4
+Minutes Played: 16
+Advanced Statistics:
+Player Efficiency Rating = 16.9
+True Shooting Percentage = 0.75
+Usage Percentage = 16.4
+Win Shares = 0.1
+VORP = 0.0
+
+D'Moi Hodge:
+Position: SG
+Age: 25
+Team: LAL
+ Games Played: 7
+Minutes Played: 41
+Advanced Statistics:
+Player Efficiency Rating = 6.3
+True Shooting Percentage = 0.441
+Usage Percentage = 17.8
+Win Shares = 0.0
+VORP = 0.0
+
+Aaron Holiday:
+Position: PG
+Age: 27
+Team: HOU
+ Games Played: 23
+Minutes Played: 420
+Advanced Statistics:
+Player Efficiency Rating = 11.3
+True Shooting Percentage = 0.587
+Usage Percentage = 16.0
+Win Shares = 1.0
+VORP = 0.1
+
+Jrue Holiday:
+Position: PG
+Age: 33
+Team: BOS
+ Games Played: 25
+Minutes Played: 863
+Advanced Statistics:
+Player Efficiency Rating = 13.6
+True Shooting Percentage = 0.554
+Usage Percentage = 16.7
+Win Shares = 2.1
+VORP = 0.7
+
+Justin Holiday:
+Position: SG
+Age: 34
+Team: DEN
+ Games Played: 17
+Minutes Played: 260
+Advanced Statistics:
+Player Efficiency Rating = 11.2
+True Shooting Percentage = 0.691
+Usage Percentage = 9.9
+Win Shares = 0.7
+VORP = 0.1
+
+Richaun Holmes:
+Position: C
+Age: 30
+Team: DAL
+ Games Played: 14
+Minutes Played: 140
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.467
+Usage Percentage = 14.7
+Win Shares = 0.1
+VORP = -0.2
+
+Chet Holmgren:
+Position: C
+Age: 21
+Team: OKC
+ Games Played: 26
+Minutes Played: 773
+Advanced Statistics:
+Player Efficiency Rating = 21.5
+True Shooting Percentage = 0.646
+Usage Percentage = 21.9
+Win Shares = 3.1
+VORP = 1.3
+
+Jalen Hood-Schifino:
+Position: SG
+Age: 20
+Team: LAL
+ Games Played: 5
+Minutes Played: 52
+Advanced Statistics:
+Player Efficiency Rating = -2.6
+True Shooting Percentage = 0.313
+Usage Percentage = 21.9
+Win Shares = -0.2
+VORP = -0.2
+
+Al Horford:
+Position: C
+Age: 37
+Team: BOS
+ Games Played: 23
+Minutes Played: 613
+Advanced Statistics:
+Player Efficiency Rating = 13.9
+True Shooting Percentage = 0.601
+Usage Percentage = 11.9
+Win Shares = 2.0
+VORP = 0.8
+
+Talen Horton-Tucker:
+Position: PG
+Age: 23
+Team: UTA
+ Games Played: 28
+Minutes Played: 641
+Advanced Statistics:
+Player Efficiency Rating = 13.5
+True Shooting Percentage = 0.514
+Usage Percentage = 23.4
+Win Shares = 0.6
+VORP = 0.1
+
+Danuel House Jr.:
+Position: SF
+Age: 30
+Team: PHI
+ Games Played: 16
+Minutes Played: 187
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.591
+Usage Percentage = 14.2
+Win Shares = 0.3
+VORP = 0.0
+
+Caleb Houstan:
+Position: SF
+Age: 21
+Team: ORL
+ Games Played: 18
+Minutes Played: 191
+Advanced Statistics:
+Player Efficiency Rating = 9.1
+True Shooting Percentage = 0.592
+Usage Percentage = 12.6
+Win Shares = 0.4
+VORP = 0.0
+
+Jett Howard:
+Position: SF
+Age: 20
+Team: ORL
+ Games Played: 8
+Minutes Played: 34
+Advanced Statistics:
+Player Efficiency Rating = 1.1
+True Shooting Percentage = 0.346
+Usage Percentage = 22.2
+Win Shares = -0.1
+VORP = -0.1
+
+Kevin Huerter:
+Position: SG
+Age: 25
+Team: SAC
+ Games Played: 25
+Minutes Played: 637
+Advanced Statistics:
+Player Efficiency Rating = 12.8
+True Shooting Percentage = 0.559
+Usage Percentage = 17.5
+Win Shares = 1.2
+VORP = 0.3
+
+Jay Huff:
+Position: C
+Age: 25
+Team: DEN
+ Games Played: 2
+Minutes Played: 2
+Advanced Statistics:
+Player Efficiency Rating = 35.8
+True Shooting Percentage = 1.0
+Usage Percentage = 21.5
+Win Shares = 0.0
+VORP = 0.0
+
+De'Andre Hunter:
+Position: SF
+Age: 26
+Team: ATL
+ Games Played: 24
+Minutes Played: 727
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.601
+Usage Percentage = 18.8
+Win Shares = 0.9
+VORP = 0.0
+
+Bones Hyland:
+Position: PG
+Age: 23
+Team: LAC
+ Games Played: 14
+Minutes Played: 220
+Advanced Statistics:
+Player Efficiency Rating = 9.7
+True Shooting Percentage = 0.532
+Usage Percentage = 24.6
+Win Shares = 0.0
+VORP = -0.2
+
+Joe Ingles:
+Position: SF
+Age: 36
+Team: ORL
+ Games Played: 24
+Minutes Played: 437
+Advanced Statistics:
+Player Efficiency Rating = 12.0
+True Shooting Percentage = 0.572
+Usage Percentage = 11.8
+Win Shares = 1.2
+VORP = 0.3
+
+Brandon Ingram:
+Position: SF
+Age: 26
+Team: NOP
+ Games Played: 26
+Minutes Played: 868
+Advanced Statistics:
+Player Efficiency Rating = 18.4
+True Shooting Percentage = 0.585
+Usage Percentage = 28.9
+Win Shares = 1.9
+VORP = 0.5
+
+Kyrie Irving:
+Position: SG
+Age: 31
+Team: DAL
+ Games Played: 17
+Minutes Played: 541
+Advanced Statistics:
+Player Efficiency Rating = 21.4
+True Shooting Percentage = 0.58
+Usage Percentage = 28.3
+Win Shares = 1.7
+VORP = 0.8
+
+Jonathan Isaac:
+Position: PF
+Age: 26
+Team: ORL
+ Games Played: 20
+Minutes Played: 273
+Advanced Statistics:
+Player Efficiency Rating = 18.8
+True Shooting Percentage = 0.555
+Usage Percentage = 20.0
+Win Shares = 0.9
+VORP = 0.3
+
+Jaden Ivey:
+Position: SG
+Age: 21
+Team: DET
+ Games Played: 24
+Minutes Played: 590
+Advanced Statistics:
+Player Efficiency Rating = 12.3
+True Shooting Percentage = 0.558
+Usage Percentage = 22.0
+Win Shares = 0.2
+VORP = -0.2
+
+Andre Jackson Jr.:
+Position: SG
+Age: 22
+Team: MIL
+ Games Played: 22
+Minutes Played: 228
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.706
+Usage Percentage = 10.1
+Win Shares = 0.5
+VORP = 0.0
+
+Gregory Jackson II:
+Position: PF
+Age: 19
+Team: MEM
+ Games Played: 4
+Minutes Played: 19
+Advanced Statistics:
+Player Efficiency Rating = 5.9
+True Shooting Percentage = 0.4
+Usage Percentage = 24.7
+Win Shares = 0.0
+VORP = 0.0
+
+Isaiah Jackson:
+Position: C
+Age: 22
+Team: IND
+ Games Played: 19
+Minutes Played: 278
+Advanced Statistics:
+Player Efficiency Rating = 22.3
+True Shooting Percentage = 0.689
+Usage Percentage = 16.8
+Win Shares = 1.2
+VORP = 0.3
+
+Jaren Jackson Jr.:
+Position: C
+Age: 24
+Team: MEM
+ Games Played: 27
+Minutes Played: 851
+Advanced Statistics:
+Player Efficiency Rating = 17.7
+True Shooting Percentage = 0.571
+Usage Percentage = 28.2
+Win Shares = 1.8
+VORP = 0.5
+
+Reggie Jackson:
+Position: PG
+Age: 33
+Team: DEN
+ Games Played: 29
+Minutes Played: 739
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.583
+Usage Percentage = 21.9
+Win Shares = 1.6
+VORP = 0.4
+
+Trayce Jackson-Davis:
+Position: PF
+Age: 23
+Team: GSW
+ Games Played: 17
+Minutes Played: 161
+Advanced Statistics:
+Player Efficiency Rating = 18.1
+True Shooting Percentage = 0.622
+Usage Percentage = 16.3
+Win Shares = 0.5
+VORP = 0.1
+
+LeBron James:
+Position: PF
+Age: 39
+Team: LAL
+ Games Played: 26
+Minutes Played: 886
+Advanced Statistics:
+Player Efficiency Rating = 24.6
+True Shooting Percentage = 0.631
+Usage Percentage = 29.6
+Win Shares = 3.2
+VORP = 2.3
+
+Jaime Jaquez Jr.:
+Position: SF
+Age: 22
+Team: MIA
+ Games Played: 28
+Minutes Played: 791
+Advanced Statistics:
+Player Efficiency Rating = 13.5
+True Shooting Percentage = 0.594
+Usage Percentage = 19.5
+Win Shares = 1.4
+VORP = 0.0
+
+DaQuan Jeffries:
+Position: SG
+Age: 26
+Team: NYK
+ Games Played: 10
+Minutes Played: 30
+Advanced Statistics:
+Player Efficiency Rating = 5.2
+True Shooting Percentage = 0.427
+Usage Percentage = 19.6
+Win Shares = 0.0
+VORP = 0.0
+
+Ty Jerome:
+Position: SG
+Age: 26
+Team: CLE
+ Games Played: 2
+Minutes Played: 15
+Advanced Statistics:
+Player Efficiency Rating = 7.7
+True Shooting Percentage = 0.5
+Usage Percentage = 14.4
+Win Shares = 0.0
+VORP = 0.0
+
+Isaiah Joe:
+Position: SG
+Age: 24
+Team: OKC
+ Games Played: 26
+Minutes Played: 534
+Advanced Statistics:
+Player Efficiency Rating = 14.2
+True Shooting Percentage = 0.632
+Usage Percentage = 17.1
+Win Shares = 1.5
+VORP = 0.6
+
+Cameron Johnson:
+Position: PF
+Age: 27
+Team: BRK
+ Games Played: 20
+Minutes Played: 577
+Advanced Statistics:
+Player Efficiency Rating = 15.0
+True Shooting Percentage = 0.576
+Usage Percentage = 19.7
+Win Shares = 1.3
+VORP = 0.4
+
+Jalen Johnson:
+Position: SF
+Age: 22
+Team: ATL
+ Games Played: 15
+Minutes Played: 449
+Advanced Statistics:
+Player Efficiency Rating = 17.2
+True Shooting Percentage = 0.673
+Usage Percentage = 17.1
+Win Shares = 1.0
+VORP = 0.5
+
+James Johnson:
+Position: PF
+Age: 36
+Team: IND
+ Games Played: 3
+Minutes Played: 16
+Advanced Statistics:
+Player Efficiency Rating = 10.9
+True Shooting Percentage = 0.5
+Usage Percentage = 7.7
+Win Shares = 0.0
+VORP = 0.0
+
+Keldon Johnson:
+Position: SF
+Age: 24
+Team: SAS
+ Games Played: 26
+Minutes Played: 859
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.573
+Usage Percentage = 21.3
+Win Shares = 1.2
+VORP = 0.3
+
+Keyontae Johnson:
+Position: SF
+Age: 23
+Team: OKC
+ Games Played: 1
+Minutes Played: 6
+Advanced Statistics:
+Player Efficiency Rating = -6.1
+True Shooting Percentage = 0.0
+Usage Percentage = 7.2
+Win Shares = 0.0
+VORP = 0.0
+
+Nikola Jokić:
+Position: C
+Age: 28
+Team: DEN
+ Games Played: 28
+Minutes Played: 938
+Advanced Statistics:
+Player Efficiency Rating = 31.5
+True Shooting Percentage = 0.61
+Usage Percentage = 31.3
+Win Shares = 5.7
+VORP = 3.8
+
+Colby Jones:
+Position: SG
+Age: 21
+Team: SAC
+ Games Played: 11
+Minutes Played: 75
+Advanced Statistics:
+Player Efficiency Rating = 8.5
+True Shooting Percentage = 0.48
+Usage Percentage = 20.5
+Win Shares = 0.0
+VORP = -0.1
+
+Damian Jones:
+Position: C
+Age: 28
+Team: CLE
+ Games Played: 12
+Minutes Played: 58
+Advanced Statistics:
+Player Efficiency Rating = 7.5
+True Shooting Percentage = 0.557
+Usage Percentage = 10.4
+Win Shares = 0.0
+VORP = -0.1
+
+Derrick Jones Jr.:
+Position: SF
+Age: 26
+Team: DAL
+ Games Played: 26
+Minutes Played: 642
+Advanced Statistics:
+Player Efficiency Rating = 13.6
+True Shooting Percentage = 0.609
+Usage Percentage = 15.8
+Win Shares = 1.3
+VORP = 0.3
+
+Herbert Jones:
+Position: SF
+Age: 25
+Team: NOP
+ Games Played: 26
+Minutes Played: 780
+Advanced Statistics:
+Player Efficiency Rating = 13.5
+True Shooting Percentage = 0.601
+Usage Percentage = 15.0
+Win Shares = 2.0
+VORP = 0.5
+
+Tre Jones:
+Position: PG
+Age: 24
+Team: SAS
+ Games Played: 23
+Minutes Played: 536
+Advanced Statistics:
+Player Efficiency Rating = 12.1
+True Shooting Percentage = 0.541
+Usage Percentage = 15.9
+Win Shares = 0.5
+VORP = -0.1
+
+Tyus Jones:
+Position: PG
+Age: 27
+Team: WAS
+ Games Played: 27
+Minutes Played: 747
+Advanced Statistics:
+Player Efficiency Rating = 17.0
+True Shooting Percentage = 0.61
+Usage Percentage = 16.5
+Win Shares = 1.7
+VORP = 0.6
+
+DeAndre Jordan:
+Position: C
+Age: 35
+Team: DEN
+ Games Played: 11
+Minutes Played: 153
+Advanced Statistics:
+Player Efficiency Rating = 14.1
+True Shooting Percentage = 0.533
+Usage Percentage = 17.6
+Win Shares = 0.3
+VORP = 0.0
+
+Cory Joseph:
+Position: PG
+Age: 32
+Team: GSW
+ Games Played: 12
+Minutes Played: 127
+Advanced Statistics:
+Player Efficiency Rating = 6.3
+True Shooting Percentage = 0.381
+Usage Percentage = 12.8
+Win Shares = 0.0
+VORP = -0.1
+
+Nikola Jović:
+Position: PF
+Age: 20
+Team: MIA
+ Games Played: 4
+Minutes Played: 48
+Advanced Statistics:
+Player Efficiency Rating = 9.7
+True Shooting Percentage = 0.509
+Usage Percentage = 17.3
+Win Shares = 0.0
+VORP = 0.0
+
+Johnny Juzang:
+Position: SG
+Age: 22
+Team: UTA
+ Games Played: 1
+Minutes Played: 4
+Advanced Statistics:
+Player Efficiency Rating = -11.1
+True Shooting Percentage = 0.0
+Usage Percentage = 20.8
+Win Shares = 0.0
+VORP = 0.0
+
+Luke Kennard:
+Position: SG
+Age: 27
+Team: MEM
+ Games Played: 8
+Minutes Played: 172
+Advanced Statistics:
+Player Efficiency Rating = 11.4
+True Shooting Percentage = 0.54
+Usage Percentage = 16.4
+Win Shares = 0.3
+VORP = 0.1
+
+Walker Kessler:
+Position: C
+Age: 22
+Team: UTA
+ Games Played: 21
+Minutes Played: 527
+Advanced Statistics:
+Player Efficiency Rating = 16.9
+True Shooting Percentage = 0.588
+Usage Percentage = 14.3
+Win Shares = 1.1
+VORP = 0.2
+
+Braxton Key:
+Position: SF
+Age: 26
+Team: DEN
+ Games Played: 6
+Minutes Played: 15
+Advanced Statistics:
+Player Efficiency Rating = 5.5
+True Shooting Percentage = 0.255
+Usage Percentage = 16.9
+Win Shares = 0.0
+VORP = 0.0
+
+Corey Kispert:
+Position: SF
+Age: 24
+Team: WAS
+ Games Played: 26
+Minutes Played: 597
+Advanced Statistics:
+Player Efficiency Rating = 11.1
+True Shooting Percentage = 0.598
+Usage Percentage = 18.6
+Win Shares = 0.3
+VORP = -0.3
+
+Maxi Kleber:
+Position: C
+Age: 32
+Team: DAL
+ Games Played: 5
+Minutes Played: 90
+Advanced Statistics:
+Player Efficiency Rating = 6.2
+True Shooting Percentage = 0.417
+Usage Percentage = 11.5
+Win Shares = 0.0
+VORP = 0.0
+
+Kevin Knox:
+Position: SF
+Age: 24
+Team: DET
+ Games Played: 10
+Minutes Played: 150
+Advanced Statistics:
+Player Efficiency Rating = 10.0
+True Shooting Percentage = 0.598
+Usage Percentage = 16.5
+Win Shares = 0.1
+VORP = -0.1
+
+John Konchar:
+Position: SF
+Age: 27
+Team: MEM
+ Games Played: 22
+Minutes Played: 395
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.49
+Usage Percentage = 9.3
+Win Shares = 0.7
+VORP = 0.1
+
+Furkan Korkmaz:
+Position: SG
+Age: 26
+Team: PHI
+ Games Played: 19
+Minutes Played: 130
+Advanced Statistics:
+Player Efficiency Rating = 7.0
+True Shooting Percentage = 0.462
+Usage Percentage = 14.9
+Win Shares = 0.1
+VORP = 0.0
+
+Luke Kornet:
+Position: C
+Age: 28
+Team: BOS
+ Games Played: 17
+Minutes Played: 220
+Advanced Statistics:
+Player Efficiency Rating = 19.2
+True Shooting Percentage = 0.766
+Usage Percentage = 10.6
+Win Shares = 1.1
+VORP = 0.3
+
+Jonathan Kuminga:
+Position: PF
+Age: 21
+Team: GSW
+ Games Played: 26
+Minutes Played: 548
+Advanced Statistics:
+Player Efficiency Rating = 13.7
+True Shooting Percentage = 0.562
+Usage Percentage = 24.0
+Win Shares = 0.7
+VORP = 0.0
+
+Kyle Kuzma:
+Position: PF
+Age: 28
+Team: WAS
+ Games Played: 27
+Minutes Played: 845
+Advanced Statistics:
+Player Efficiency Rating = 18.0
+True Shooting Percentage = 0.563
+Usage Percentage = 31.5
+Win Shares = 0.4
+VORP = 0.3
+
+Jock Landale:
+Position: C
+Age: 28
+Team: HOU
+ Games Played: 16
+Minutes Played: 136
+Advanced Statistics:
+Player Efficiency Rating = 7.0
+True Shooting Percentage = 0.437
+Usage Percentage = 12.1
+Win Shares = 0.1
+VORP = -0.1
+
+Jake LaRavia:
+Position: PF
+Age: 22
+Team: MEM
+ Games Played: 8
+Minutes Played: 99
+Advanced Statistics:
+Player Efficiency Rating = 2.0
+True Shooting Percentage = 0.395
+Usage Percentage = 15.9
+Win Shares = -0.1
+VORP = -0.2
+
+Zach LaVine:
+Position: SG
+Age: 28
+Team: CHI
+ Games Played: 18
+Minutes Played: 635
+Advanced Statistics:
+Player Efficiency Rating = 15.6
+True Shooting Percentage = 0.566
+Usage Percentage = 25.5
+Win Shares = 1.0
+VORP = 0.4
+
+A.J. Lawson:
+Position: SG
+Age: 23
+Team: DAL
+ Games Played: 10
+Minutes Played: 68
+Advanced Statistics:
+Player Efficiency Rating = 9.1
+True Shooting Percentage = 0.506
+Usage Percentage = 20.4
+Win Shares = 0.0
+VORP = -0.1
+
+Saben Lee:
+Position: PG
+Age: 24
+Team: PHO
+ Games Played: 4
+Minutes Played: 11
+Advanced Statistics:
+Player Efficiency Rating = 41.0
+True Shooting Percentage = 0.635
+Usage Percentage = 30.9
+Win Shares = 0.1
+VORP = 0.0
+
+Alex Len:
+Position: C
+Age: 30
+Team: SAC
+ Games Played: 6
+Minutes Played: 41
+Advanced Statistics:
+Player Efficiency Rating = 24.4
+True Shooting Percentage = 0.677
+Usage Percentage = 13.5
+Win Shares = 0.2
+VORP = 0.1
+
+Kawhi Leonard:
+Position: SF
+Age: 32
+Team: LAC
+ Games Played: 27
+Minutes Played: 932
+Advanced Statistics:
+Player Efficiency Rating = 23.4
+True Shooting Percentage = 0.631
+Usage Percentage = 26.0
+Win Shares = 4.0
+VORP = 1.9
+
+Caris LeVert:
+Position: SG
+Age: 29
+Team: CLE
+ Games Played: 22
+Minutes Played: 645
+Advanced Statistics:
+Player Efficiency Rating = 13.8
+True Shooting Percentage = 0.516
+Usage Percentage = 23.8
+Win Shares = 0.9
+VORP = 0.1
+
+Kira Lewis Jr.:
+Position: PG
+Age: 22
+Team: NOP
+ Games Played: 13
+Minutes Played: 131
+Advanced Statistics:
+Player Efficiency Rating = 6.6
+True Shooting Percentage = 0.392
+Usage Percentage = 18.5
+Win Shares = -0.1
+VORP = -0.1
+
+Maxwell Lewis:
+Position: SF
+Age: 21
+Team: LAL
+ Games Played: 12
+Minutes Played: 53
+Advanced Statistics:
+Player Efficiency Rating = -3.9
+True Shooting Percentage = 0.167
+Usage Percentage = 11.4
+Win Shares = -0.2
+VORP = -0.1
+
+E.J. Liddell:
+Position: PF
+Age: 23
+Team: NOP
+ Games Played: 3
+Minutes Played: 9
+Advanced Statistics:
+Player Efficiency Rating = 4.0
+True Shooting Percentage = 0.41
+Usage Percentage = 27.8
+Win Shares = 0.0
+VORP = 0.0
+
+Damian Lillard:
+Position: PG
+Age: 33
+Team: MIL
+ Games Played: 26
+Minutes Played: 919
+Advanced Statistics:
+Player Efficiency Rating = 22.1
+True Shooting Percentage = 0.622
+Usage Percentage = 28.4
+Win Shares = 3.6
+VORP = 1.3
+
+Nassir Little:
+Position: PF
+Age: 23
+Team: PHO
+ Games Played: 20
+Minutes Played: 324
+Advanced Statistics:
+Player Efficiency Rating = 12.1
+True Shooting Percentage = 0.63
+Usage Percentage = 12.5
+Win Shares = 0.7
+VORP = 0.0
+
+Dereck Lively II:
+Position: C
+Age: 19
+Team: DAL
+ Games Played: 23
+Minutes Played: 582
+Advanced Statistics:
+Player Efficiency Rating = 17.4
+True Shooting Percentage = 0.728
+Usage Percentage = 12.3
+Win Shares = 2.0
+VORP = 0.2
+
+Isaiah Livers:
+Position: PF
+Age: 25
+Team: DET
+ Games Played: 14
+Minutes Played: 279
+Advanced Statistics:
+Player Efficiency Rating = 2.9
+True Shooting Percentage = 0.379
+Usage Percentage = 14.0
+Win Shares = -0.4
+VORP = -0.5
+
+Chris Livingston:
+Position: SF
+Age: 20
+Team: MIL
+ Games Played: 5
+Minutes Played: 21
+Advanced Statistics:
+Player Efficiency Rating = 14.4
+True Shooting Percentage = 0.875
+Usage Percentage = 10.0
+Win Shares = 0.1
+VORP = 0.0
+
+Kenneth Lofton Jr.:
+Position: PF
+Age: 21
+Team: MEM
+ Games Played: 15
+Minutes Played: 99
+Advanced Statistics:
+Player Efficiency Rating = 8.6
+True Shooting Percentage = 0.447
+Usage Percentage = 21.3
+Win Shares = 0.0
+VORP = -0.1
+
+Kevon Looney:
+Position: C
+Age: 27
+Team: GSW
+ Games Played: 27
+Minutes Played: 588
+Advanced Statistics:
+Player Efficiency Rating = 15.0
+True Shooting Percentage = 0.587
+Usage Percentage = 10.4
+Win Shares = 1.9
+VORP = 0.6
+
+Brook Lopez:
+Position: C
+Age: 35
+Team: MIL
+ Games Played: 28
+Minutes Played: 866
+Advanced Statistics:
+Player Efficiency Rating = 16.0
+True Shooting Percentage = 0.614
+Usage Percentage = 16.0
+Win Shares = 2.4
+VORP = 0.8
+
+Robin Lopez:
+Position: C
+Age: 35
+Team: MIL
+ Games Played: 7
+Minutes Played: 21
+Advanced Statistics:
+Player Efficiency Rating = 4.6
+True Shooting Percentage = 0.512
+Usage Percentage = 11.8
+Win Shares = 0.0
+VORP = 0.0
+
+Kevin Love:
+Position: PF
+Age: 35
+Team: MIA
+ Games Played: 21
+Minutes Played: 404
+Advanced Statistics:
+Player Efficiency Rating = 18.5
+True Shooting Percentage = 0.601
+Usage Percentage = 19.8
+Win Shares = 1.5
+VORP = 0.6
+
+Kyle Lowry:
+Position: PG
+Age: 37
+Team: MIA
+ Games Played: 26
+Minutes Played: 764
+Advanced Statistics:
+Player Efficiency Rating = 12.6
+True Shooting Percentage = 0.628
+Usage Percentage = 13.4
+Win Shares = 1.9
+VORP = 0.4
+
+Seth Lundy:
+Position: SF
+Age: 23
+Team: ATL
+ Games Played: 2
+Minutes Played: 10
+Advanced Statistics:
+Player Efficiency Rating = 0.3
+True Shooting Percentage = 0.5
+Usage Percentage = 8.2
+Win Shares = 0.0
+VORP = 0.0
+
+Trey Lyles:
+Position: PF
+Age: 28
+Team: SAC
+ Games Played: 13
+Minutes Played: 260
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.548
+Usage Percentage = 14.4
+Win Shares = 0.4
+VORP = 0.0
+
+Théo Maledon:
+Position: PG
+Age: 22
+Team: CHO
+ Games Played: 13
+Minutes Played: 200
+Advanced Statistics:
+Player Efficiency Rating = 4.1
+True Shooting Percentage = 0.379
+Usage Percentage = 18.5
+Win Shares = -0.5
+VORP = -0.4
+
+Sandro Mamukelashvili:
+Position: C
+Age: 24
+Team: SAS
+ Games Played: 12
+Minutes Played: 86
+Advanced Statistics:
+Player Efficiency Rating = 11.7
+True Shooting Percentage = 0.488
+Usage Percentage = 16.4
+Win Shares = 0.1
+VORP = 0.0
+
+Terance Mann:
+Position: SG
+Age: 27
+Team: LAC
+ Games Played: 22
+Minutes Played: 583
+Advanced Statistics:
+Player Efficiency Rating = 8.5
+True Shooting Percentage = 0.494
+Usage Percentage = 12.0
+Win Shares = 0.7
+VORP = -0.1
+
+Tre Mann:
+Position: PG
+Age: 22
+Team: OKC
+ Games Played: 10
+Minutes Played: 94
+Advanced Statistics:
+Player Efficiency Rating = 13.1
+True Shooting Percentage = 0.586
+Usage Percentage = 18.5
+Win Shares = 0.1
+VORP = 0.0
+
+Boban Marjanović:
+Position: C
+Age: 35
+Team: HOU
+ Games Played: 3
+Minutes Played: 20
+Advanced Statistics:
+Player Efficiency Rating = 21.9
+True Shooting Percentage = 0.53
+Usage Percentage = 20.6
+Win Shares = 0.1
+VORP = 0.0
+
+Lauri Markkanen:
+Position: PF
+Age: 26
+Team: UTA
+ Games Played: 19
+Minutes Played: 629
+Advanced Statistics:
+Player Efficiency Rating = 21.4
+True Shooting Percentage = 0.626
+Usage Percentage = 25.0
+Win Shares = 2.1
+VORP = 0.8
+
+Naji Marshall:
+Position: SF
+Age: 26
+Team: NOP
+ Games Played: 20
+Minutes Played: 402
+Advanced Statistics:
+Player Efficiency Rating = 15.3
+True Shooting Percentage = 0.592
+Usage Percentage = 17.9
+Win Shares = 1.0
+VORP = 0.3
+
+Caleb Martin:
+Position: SF
+Age: 28
+Team: MIA
+ Games Played: 18
+Minutes Played: 485
+Advanced Statistics:
+Player Efficiency Rating = 11.8
+True Shooting Percentage = 0.525
+Usage Percentage = 20.3
+Win Shares = 0.5
+VORP = -0.2
+
+KJ Martin:
+Position: SF
+Age: 23
+Team: TOT
+ Games Played: 16
+Minutes Played: 112
+Advanced Statistics:
+Player Efficiency Rating = 9.1
+True Shooting Percentage = 0.492
+Usage Percentage = 13.8
+Win Shares = 0.2
+VORP = 0.0
+
+KJ Martin:
+Position: SF
+Age: 23
+Team: LAC
+ Games Played: 2
+Minutes Played: 31
+Advanced Statistics:
+Player Efficiency Rating = 7.0
+True Shooting Percentage = 0.46
+Usage Percentage = 17.9
+Win Shares = 0.0
+VORP = 0.0
+
+KJ Martin:
+Position: SF
+Age: 23
+Team: PHI
+ Games Played: 14
+Minutes Played: 81
+Advanced Statistics:
+Player Efficiency Rating = 10.0
+True Shooting Percentage = 0.509
+Usage Percentage = 12.3
+Win Shares = 0.2
+VORP = 0.0
+
+Garrison Mathews:
+Position: SG
+Age: 27
+Team: ATL
+ Games Played: 15
+Minutes Played: 164
+Advanced Statistics:
+Player Efficiency Rating = 6.7
+True Shooting Percentage = 0.694
+Usage Percentage = 9.6
+Win Shares = 0.1
+VORP = -0.1
+
+Bennedict Mathurin:
+Position: SF
+Age: 21
+Team: IND
+ Games Played: 27
+Minutes Played: 683
+Advanced Statistics:
+Player Efficiency Rating = 13.2
+True Shooting Percentage = 0.556
+Usage Percentage = 22.6
+Win Shares = 0.5
+VORP = -0.3
+
+Wesley Matthews:
+Position: SG
+Age: 37
+Team: ATL
+ Games Played: 16
+Minutes Played: 192
+Advanced Statistics:
+Player Efficiency Rating = 5.4
+True Shooting Percentage = 0.431
+Usage Percentage = 10.9
+Win Shares = 0.0
+VORP = -0.2
+
+Tyrese Maxey:
+Position: PG
+Age: 23
+Team: PHI
+ Games Played: 26
+Minutes Played: 962
+Advanced Statistics:
+Player Efficiency Rating = 21.5
+True Shooting Percentage = 0.6
+Usage Percentage = 26.5
+Win Shares = 4.2
+VORP = 1.7
+
+Skylar Mays:
+Position: PG
+Age: 26
+Team: POR
+ Games Played: 15
+Minutes Played: 290
+Advanced Statistics:
+Player Efficiency Rating = 13.2
+True Shooting Percentage = 0.488
+Usage Percentage = 18.4
+Win Shares = 0.4
+VORP = 0.0
+
+Miles McBride:
+Position: PG
+Age: 23
+Team: NYK
+ Games Played: 17
+Minutes Played: 81
+Advanced Statistics:
+Player Efficiency Rating = 15.7
+True Shooting Percentage = 0.632
+Usage Percentage = 14.0
+Win Shares = 0.3
+VORP = 0.1
+
+CJ McCollum:
+Position: PG
+Age: 32
+Team: NOP
+ Games Played: 16
+Minutes Played: 531
+Advanced Statistics:
+Player Efficiency Rating = 19.8
+True Shooting Percentage = 0.598
+Usage Percentage = 23.6
+Win Shares = 1.8
+VORP = 0.9
+
+T.J. McConnell:
+Position: PG
+Age: 31
+Team: IND
+ Games Played: 21
+Minutes Played: 321
+Advanced Statistics:
+Player Efficiency Rating = 20.2
+True Shooting Percentage = 0.549
+Usage Percentage = 21.8
+Win Shares = 0.9
+VORP = 0.3
+
+Jaden McDaniels:
+Position: SF
+Age: 23
+Team: MIN
+ Games Played: 17
+Minutes Played: 433
+Advanced Statistics:
+Player Efficiency Rating = 11.0
+True Shooting Percentage = 0.641
+Usage Percentage = 15.6
+Win Shares = 1.0
+VORP = 0.1
+
+Jalen McDaniels:
+Position: SF
+Age: 26
+Team: TOR
+ Games Played: 16
+Minutes Played: 141
+Advanced Statistics:
+Player Efficiency Rating = 2.0
+True Shooting Percentage = 0.321
+Usage Percentage = 16.8
+Win Shares = -0.3
+VORP = -0.2
+
+Doug McDermott:
+Position: SF
+Age: 32
+Team: SAS
+ Games Played: 25
+Minutes Played: 407
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.615
+Usage Percentage = 14.2
+Win Shares = 0.4
+VORP = -0.1
+
+JaVale McGee:
+Position: C
+Age: 36
+Team: SAC
+ Games Played: 23
+Minutes Played: 200
+Advanced Statistics:
+Player Efficiency Rating = 18.9
+True Shooting Percentage = 0.663
+Usage Percentage = 22.0
+Win Shares = 0.4
+VORP = 0.0
+
+Bryce McGowens:
+Position: SG
+Age: 21
+Team: CHO
+ Games Played: 21
+Minutes Played: 367
+Advanced Statistics:
+Player Efficiency Rating = 8.1
+True Shooting Percentage = 0.6
+Usage Percentage = 12.3
+Win Shares = 0.2
+VORP = -0.3
+
+Jordan McLaughlin:
+Position: PG
+Age: 27
+Team: MIN
+ Games Played: 9
+Minutes Played: 35
+Advanced Statistics:
+Player Efficiency Rating = 16.1
+True Shooting Percentage = 0.68
+Usage Percentage = 7.3
+Win Shares = 0.2
+VORP = 0.1
+
+De'Anthony Melton:
+Position: SG
+Age: 25
+Team: PHI
+ Games Played: 27
+Minutes Played: 777
+Advanced Statistics:
+Player Efficiency Rating = 13.3
+True Shooting Percentage = 0.541
+Usage Percentage = 17.4
+Win Shares = 1.9
+VORP = 0.5
+
+Nathan Mensah:
+Position: C
+Age: 25
+Team: CHO
+ Games Played: 3
+Minutes Played: 49
+Advanced Statistics:
+Player Efficiency Rating = 6.9
+True Shooting Percentage = 0.581
+Usage Percentage = 8.7
+Win Shares = 0.0
+VORP = -0.1
+
+Sam Merrill:
+Position: SG
+Age: 27
+Team: CLE
+ Games Played: 16
+Minutes Played: 177
+Advanced Statistics:
+Player Efficiency Rating = 14.5
+True Shooting Percentage = 0.629
+Usage Percentage = 19.8
+Win Shares = 0.5
+VORP = 0.1
+
+Chimezie Metu:
+Position: C
+Age: 26
+Team: PHO
+ Games Played: 17
+Minutes Played: 182
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.602
+Usage Percentage = 15.5
+Win Shares = 0.3
+VORP = 0.0
+
+Vasilije Micić:
+Position: PG
+Age: 30
+Team: OKC
+ Games Played: 10
+Minutes Played: 122
+Advanced Statistics:
+Player Efficiency Rating = 5.5
+True Shooting Percentage = 0.444
+Usage Percentage = 15.4
+Win Shares = -0.1
+VORP = -0.2
+
+Khris Middleton:
+Position: SF
+Age: 32
+Team: MIL
+ Games Played: 23
+Minutes Played: 537
+Advanced Statistics:
+Player Efficiency Rating = 16.4
+True Shooting Percentage = 0.57
+Usage Percentage = 24.1
+Win Shares = 1.1
+VORP = 0.3
+
+Brandon Miller:
+Position: SF
+Age: 21
+Team: CHO
+ Games Played: 24
+Minutes Played: 774
+Advanced Statistics:
+Player Efficiency Rating = 10.8
+True Shooting Percentage = 0.535
+Usage Percentage = 20.9
+Win Shares = -0.1
+VORP = -0.5
+
+Jordan Miller:
+Position: SF
+Age: 24
+Team: LAC
+ Games Played: 3
+Minutes Played: 12
+Advanced Statistics:
+Player Efficiency Rating = 7.1
+True Shooting Percentage = 0.833
+Usage Percentage = 14.4
+Win Shares = 0.0
+VORP = 0.0
+
+Leonard Miller:
+Position: SF
+Age: 20
+Team: MIN
+ Games Played: 3
+Minutes Played: 6
+Advanced Statistics:
+Player Efficiency Rating = 20.5
+True Shooting Percentage = 0.5
+Usage Percentage = 14.5
+Win Shares = 0.0
+VORP = 0.0
+
+Dariq Whitehead:
+Position: SF
+Age: 19
+Team: BRK
+ Games Played: 1
+Minutes Played: 3
+Advanced Statistics:
+Player Efficiency Rating = 19.3
+True Shooting Percentage = 0.568
+Usage Percentage = 12.4
+Win Shares = 0.0
+VORP = 0.0
+
+Patty Mills:
+Position: PG
+Age: 35
+Team: ATL
+ Games Played: 4
+Minutes Played: 35
+Advanced Statistics:
+Player Efficiency Rating = 5.1
+True Shooting Percentage = 0.45
+Usage Percentage = 14.0
+Win Shares = 0.0
+VORP = 0.0
+
+Shake Milton:
+Position: SG
+Age: 27
+Team: MIN
+ Games Played: 25
+Minutes Played: 383
+Advanced Statistics:
+Player Efficiency Rating = 7.8
+True Shooting Percentage = 0.49
+Usage Percentage = 18.8
+Win Shares = 0.3
+VORP = -0.3
+
+Justin Minaya:
+Position: SF
+Age: 24
+Team: POR
+ Games Played: 6
+Minutes Played: 38
+Advanced Statistics:
+Player Efficiency Rating = 5.9
+True Shooting Percentage = 0.509
+Usage Percentage = 8.8
+Win Shares = 0.0
+VORP = 0.0
+
+Josh Minott:
+Position: SF
+Age: 21
+Team: MIN
+ Games Played: 11
+Minutes Played: 27
+Advanced Statistics:
+Player Efficiency Rating = 19.9
+True Shooting Percentage = 0.601
+Usage Percentage = 26.8
+Win Shares = 0.1
+VORP = 0.0
+
+Davion Mitchell:
+Position: PG
+Age: 25
+Team: SAC
+ Games Played: 20
+Minutes Played: 282
+Advanced Statistics:
+Player Efficiency Rating = 5.9
+True Shooting Percentage = 0.45
+Usage Percentage = 15.0
+Win Shares = 0.0
+VORP = -0.3
+
+Donovan Mitchell:
+Position: SG
+Age: 27
+Team: CLE
+ Games Played: 22
+Minutes Played: 803
+Advanced Statistics:
+Player Efficiency Rating = 21.9
+True Shooting Percentage = 0.579
+Usage Percentage = 31.5
+Win Shares = 2.5
+VORP = 1.5
+
+Evan Mobley:
+Position: PF
+Age: 22
+Team: CLE
+ Games Played: 21
+Minutes Played: 705
+Advanced Statistics:
+Player Efficiency Rating = 18.3
+True Shooting Percentage = 0.607
+Usage Percentage = 19.9
+Win Shares = 2.0
+VORP = 0.6
+
+Isaiah Mobley:
+Position: PF
+Age: 24
+Team: CLE
+ Games Played: 3
+Minutes Played: 14
+Advanced Statistics:
+Player Efficiency Rating = 16.2
+True Shooting Percentage = 0.625
+Usage Percentage = 15.5
+Win Shares = 0.1
+VORP = 0.0
+
+Malik Monk:
+Position: SG
+Age: 25
+Team: SAC
+ Games Played: 26
+Minutes Played: 656
+Advanced Statistics:
+Player Efficiency Rating = 16.2
+True Shooting Percentage = 0.596
+Usage Percentage = 24.3
+Win Shares = 1.3
+VORP = 0.6
+
+Moses Moody:
+Position: SG
+Age: 21
+Team: GSW
+ Games Played: 27
+Minutes Played: 508
+Advanced Statistics:
+Player Efficiency Rating = 14.2
+True Shooting Percentage = 0.587
+Usage Percentage = 17.5
+Win Shares = 1.2
+VORP = 0.3
+
+Xavier Moon:
+Position: SG
+Age: 29
+Team: LAC
+ Games Played: 2
+Minutes Played: 12
+Advanced Statistics:
+Player Efficiency Rating = 7.0
+True Shooting Percentage = 0.5
+Usage Percentage = 10.8
+Win Shares = 0.0
+VORP = 0.0
+
+Wendell Moore Jr.:
+Position: SG
+Age: 22
+Team: MIN
+ Games Played: 6
+Minutes Played: 14
+Advanced Statistics:
+Player Efficiency Rating = 1.7
+True Shooting Percentage = 0.333
+Usage Percentage = 12.4
+Win Shares = 0.0
+VORP = 0.0
+
+Ja Morant:
+Position: PG
+Age: 24
+Team: MEM
+ Games Played: 2
+Minutes Played: 69
+Advanced Statistics:
+Player Efficiency Rating = 23.1
+True Shooting Percentage = 0.563
+Usage Percentage = 33.9
+Win Shares = 0.2
+VORP = 0.1
+
+Marcus Morris:
+Position: PF
+Age: 34
+Team: PHI
+ Games Played: 19
+Minutes Played: 261
+Advanced Statistics:
+Player Efficiency Rating = 13.5
+True Shooting Percentage = 0.64
+Usage Percentage = 14.7
+Win Shares = 0.8
+VORP = 0.2
+
+Markieff Morris:
+Position: PF
+Age: 34
+Team: DAL
+ Games Played: 11
+Minutes Played: 114
+Advanced Statistics:
+Player Efficiency Rating = 6.4
+True Shooting Percentage = 0.434
+Usage Percentage = 16.8
+Win Shares = -0.1
+VORP = -0.1
+
+Trey Murphy III:
+Position: SF
+Age: 23
+Team: NOP
+ Games Played: 9
+Minutes Played: 230
+Advanced Statistics:
+Player Efficiency Rating = 20.5
+True Shooting Percentage = 0.679
+Usage Percentage = 20.8
+Win Shares = 1.0
+VORP = 0.4
+
+Dejounte Murray:
+Position: SG
+Age: 27
+Team: ATL
+ Games Played: 27
+Minutes Played: 927
+Advanced Statistics:
+Player Efficiency Rating = 16.8
+True Shooting Percentage = 0.55
+Usage Percentage = 24.1
+Win Shares = 1.6
+VORP = 0.6
+
+Jamal Murray:
+Position: PG
+Age: 26
+Team: DEN
+ Games Played: 15
+Minutes Played: 435
+Advanced Statistics:
+Player Efficiency Rating = 18.4
+True Shooting Percentage = 0.571
+Usage Percentage = 26.8
+Win Shares = 1.1
+VORP = 0.5
+
+Keegan Murray:
+Position: SF
+Age: 23
+Team: SAC
+ Games Played: 22
+Minutes Played: 705
+Advanced Statistics:
+Player Efficiency Rating = 14.0
+True Shooting Percentage = 0.574
+Usage Percentage = 19.5
+Win Shares = 1.4
+VORP = 0.1
+
+Kris Murray:
+Position: SF
+Age: 23
+Team: POR
+ Games Played: 13
+Minutes Played: 144
+Advanced Statistics:
+Player Efficiency Rating = 10.0
+True Shooting Percentage = 0.446
+Usage Percentage = 11.8
+Win Shares = 0.2
+VORP = 0.0
+
+Mike Muscala:
+Position: C
+Age: 32
+Team: WAS
+ Games Played: 15
+Minutes Played: 194
+Advanced Statistics:
+Player Efficiency Rating = 8.1
+True Shooting Percentage = 0.53
+Usage Percentage = 13.4
+Win Shares = 0.0
+VORP = -0.2
+
+Svi Mykhailiuk:
+Position: SF
+Age: 26
+Team: BOS
+ Games Played: 11
+Minutes Played: 83
+Advanced Statistics:
+Player Efficiency Rating = 3.0
+True Shooting Percentage = 0.36
+Usage Percentage = 15.1
+Win Shares = -0.1
+VORP = -0.1
+
+Larry Nance Jr.:
+Position: C
+Age: 31
+Team: NOP
+ Games Played: 14
+Minutes Played: 211
+Advanced Statistics:
+Player Efficiency Rating = 9.7
+True Shooting Percentage = 0.538
+Usage Percentage = 11.8
+Win Shares = 0.3
+VORP = 0.0
+
+Andrew Nembhard:
+Position: PG
+Age: 24
+Team: IND
+ Games Played: 18
+Minutes Played: 324
+Advanced Statistics:
+Player Efficiency Rating = 11.8
+True Shooting Percentage = 0.512
+Usage Percentage = 18.3
+Win Shares = 0.2
+VORP = -0.1
+
+Aaron Nesmith:
+Position: SF
+Age: 24
+Team: IND
+ Games Played: 25
+Minutes Played: 617
+Advanced Statistics:
+Player Efficiency Rating = 14.7
+True Shooting Percentage = 0.677
+Usage Percentage = 15.8
+Win Shares = 1.4
+VORP = 0.3
+
+Georges Niang:
+Position: PF
+Age: 30
+Team: CLE
+ Games Played: 29
+Minutes Played: 644
+Advanced Statistics:
+Player Efficiency Rating = 7.6
+True Shooting Percentage = 0.523
+Usage Percentage = 16.6
+Win Shares = 0.4
+VORP = -0.4
+
+Daishen Nix:
+Position: PG
+Age: 21
+Team: MIN
+ Games Played: 6
+Minutes Played: 21
+Advanced Statistics:
+Player Efficiency Rating = 6.7
+True Shooting Percentage = 0.45
+Usage Percentage = 18.4
+Win Shares = 0.0
+VORP = 0.0
+
+Zeke Nnaji:
+Position: PF
+Age: 23
+Team: DEN
+ Games Played: 23
+Minutes Played: 247
+Advanced Statistics:
+Player Efficiency Rating = 13.8
+True Shooting Percentage = 0.565
+Usage Percentage = 16.6
+Win Shares = 0.6
+VORP = -0.1
+
+Jaylen Nowell:
+Position: SG
+Age: 24
+Team: MEM
+ Games Played: 9
+Minutes Played: 156
+Advanced Statistics:
+Player Efficiency Rating = 6.8
+True Shooting Percentage = 0.453
+Usage Percentage = 16.7
+Win Shares = 0.0
+VORP = -0.2
+
+Markquis Nowell:
+Position: SG
+Age: 24
+Team: TOR
+ Games Played: 1
+Minutes Played: 4
+Advanced Statistics:
+Player Efficiency Rating = 56.1
+True Shooting Percentage = 0.532
+Usage Percentage = 19.9
+Win Shares = 0.1
+VORP = 0.0
+
+Jusuf Nurkić:
+Position: C
+Age: 29
+Team: PHO
+ Games Played: 27
+Minutes Played: 769
+Advanced Statistics:
+Player Efficiency Rating = 17.3
+True Shooting Percentage = 0.54
+Usage Percentage = 20.2
+Win Shares = 2.0
+VORP = 0.5
+
+Jordan Nwora:
+Position: SF
+Age: 25
+Team: IND
+ Games Played: 10
+Minutes Played: 118
+Advanced Statistics:
+Player Efficiency Rating = 14.4
+True Shooting Percentage = 0.575
+Usage Percentage = 24.0
+Win Shares = 0.1
+VORP = -0.1
+
+Royce O'Neale:
+Position: SF
+Age: 30
+Team: BRK
+ Games Played: 26
+Minutes Played: 719
+Advanced Statistics:
+Player Efficiency Rating = 10.6
+True Shooting Percentage = 0.542
+Usage Percentage = 12.6
+Win Shares = 1.3
+VORP = 0.4
+
+Chuma Okeke:
+Position: SF
+Age: 25
+Team: ORL
+ Games Played: 13
+Minutes Played: 61
+Advanced Statistics:
+Player Efficiency Rating = 9.3
+True Shooting Percentage = 0.5
+Usage Percentage = 14.5
+Win Shares = 0.1
+VORP = 0.0
+
+Josh Okogie:
+Position: SG
+Age: 25
+Team: PHO
+ Games Played: 23
+Minutes Played: 491
+Advanced Statistics:
+Player Efficiency Rating = 12.0
+True Shooting Percentage = 0.558
+Usage Percentage = 13.5
+Win Shares = 1.0
+VORP = 0.1
+
+Onyeka Okongwu:
+Position: C
+Age: 23
+Team: ATL
+ Games Played: 27
+Minutes Played: 663
+Advanced Statistics:
+Player Efficiency Rating = 16.5
+True Shooting Percentage = 0.665
+Usage Percentage = 13.3
+Win Shares = 2.1
+VORP = 0.3
+
+Isaac Okoro:
+Position: SF
+Age: 23
+Team: CLE
+ Games Played: 20
+Minutes Played: 499
+Advanced Statistics:
+Player Efficiency Rating = 11.9
+True Shooting Percentage = 0.587
+Usage Percentage = 12.5
+Win Shares = 1.2
+VORP = 0.2
+
+Kelly Olynyk:
+Position: C
+Age: 32
+Team: UTA
+ Games Played: 27
+Minutes Played: 596
+Advanced Statistics:
+Player Efficiency Rating = 16.2
+True Shooting Percentage = 0.674
+Usage Percentage = 14.6
+Win Shares = 1.6
+VORP = 0.6
+
+Eugene Omoruyi:
+Position: SF
+Age: 26
+Team: WAS
+ Games Played: 15
+Minutes Played: 86
+Advanced Statistics:
+Player Efficiency Rating = 25.6
+True Shooting Percentage = 0.687
+Usage Percentage = 28.2
+Win Shares = 0.3
+VORP = 0.1
+
+Cedi Osman:
+Position: SF
+Age: 28
+Team: SAS
+ Games Played: 27
+Minutes Played: 512
+Advanced Statistics:
+Player Efficiency Rating = 11.6
+True Shooting Percentage = 0.582
+Usage Percentage = 17.3
+Win Shares = 0.6
+VORP = 0.0
+
+Kelly Oubre Jr.:
+Position: SF
+Age: 28
+Team: PHI
+ Games Played: 16
+Minutes Played: 407
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.583
+Usage Percentage = 20.1
+Win Shares = 1.1
+VORP = 0.2
+
+Chris Paul:
+Position: PG
+Age: 38
+Team: GSW
+ Games Played: 24
+Minutes Played: 659
+Advanced Statistics:
+Player Efficiency Rating = 14.1
+True Shooting Percentage = 0.509
+Usage Percentage = 14.6
+Win Shares = 1.8
+VORP = 0.4
+
+Cameron Payne:
+Position: PG
+Age: 29
+Team: MIL
+ Games Played: 28
+Minutes Played: 458
+Advanced Statistics:
+Player Efficiency Rating = 10.0
+True Shooting Percentage = 0.579
+Usage Percentage = 15.8
+Win Shares = 0.7
+VORP = -0.2
+
+Gary Payton II:
+Position: SG
+Age: 31
+Team: GSW
+ Games Played: 14
+Minutes Played: 242
+Advanced Statistics:
+Player Efficiency Rating = 12.5
+True Shooting Percentage = 0.554
+Usage Percentage = 14.5
+Win Shares = 0.5
+VORP = 0.2
+
+Filip Petrušev:
+Position: C
+Age: 23
+Team: TOT
+ Games Played: 3
+Minutes Played: 10
+Advanced Statistics:
+Player Efficiency Rating = 5.1
+True Shooting Percentage = 0.521
+Usage Percentage = 12.2
+Win Shares = 0.0
+VORP = 0.0
+
+Filip Petrušev:
+Position: C
+Age: 23
+Team: PHI
+ Games Played: 1
+Minutes Played: 3
+Advanced Statistics:
+Player Efficiency Rating = 4.1
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Filip Petrušev:
+Position: C
+Age: 23
+Team: SAC
+ Games Played: 2
+Minutes Played: 7
+Advanced Statistics:
+Player Efficiency Rating = 5.5
+True Shooting Percentage = 0.521
+Usage Percentage = 17.4
+Win Shares = 0.0
+VORP = 0.0
+
+Julian Phillips:
+Position: SF
+Age: 20
+Team: CHI
+ Games Played: 17
+Minutes Played: 74
+Advanced Statistics:
+Player Efficiency Rating = 0.2
+True Shooting Percentage = 0.278
+Usage Percentage = 12.9
+Win Shares = -0.1
+VORP = -0.2
+
+Jalen Pickett:
+Position: SG
+Age: 24
+Team: DEN
+ Games Played: 12
+Minutes Played: 77
+Advanced Statistics:
+Player Efficiency Rating = 10.1
+True Shooting Percentage = 0.64
+Usage Percentage = 15.6
+Win Shares = 0.1
+VORP = 0.0
+
+Mason Plumlee:
+Position: C
+Age: 33
+Team: LAC
+ Games Played: 6
+Minutes Played: 102
+Advanced Statistics:
+Player Efficiency Rating = 13.6
+True Shooting Percentage = 0.596
+Usage Percentage = 12.8
+Win Shares = 0.2
+VORP = 0.0
+
+Brandin Podziemski:
+Position: SG
+Age: 20
+Team: GSW
+ Games Played: 21
+Minutes Played: 451
+Advanced Statistics:
+Player Efficiency Rating = 12.9
+True Shooting Percentage = 0.55
+Usage Percentage = 17.4
+Win Shares = 0.8
+VORP = 0.2
+
+Jakob Poeltl:
+Position: C
+Age: 28
+Team: TOR
+ Games Played: 27
+Minutes Played: 702
+Advanced Statistics:
+Player Efficiency Rating = 18.6
+True Shooting Percentage = 0.707
+Usage Percentage = 14.9
+Win Shares = 2.3
+VORP = 0.6
+
+Aleksej Pokusevski:
+Position: PF
+Age: 22
+Team: OKC
+ Games Played: 7
+Minutes Played: 43
+Advanced Statistics:
+Player Efficiency Rating = -0.3
+True Shooting Percentage = 0.253
+Usage Percentage = 14.9
+Win Shares = -0.1
+VORP = -0.1
+
+Jordan Poole:
+Position: SG
+Age: 24
+Team: WAS
+ Games Played: 26
+Minutes Played: 768
+Advanced Statistics:
+Player Efficiency Rating = 10.6
+True Shooting Percentage = 0.525
+Usage Percentage = 27.4
+Win Shares = -1.0
+VORP = -0.9
+
+Craig Porter Jr.:
+Position: PG
+Age: 23
+Team: CLE
+ Games Played: 18
+Minutes Played: 278
+Advanced Statistics:
+Player Efficiency Rating = 16.7
+True Shooting Percentage = 0.552
+Usage Percentage = 20.0
+Win Shares = 0.7
+VORP = 0.2
+
+Michael Porter Jr.:
+Position: SF
+Age: 25
+Team: DEN
+ Games Played: 29
+Minutes Played: 904
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.58
+Usage Percentage = 21.0
+Win Shares = 2.0
+VORP = 0.4
+
+Otto Porter Jr.:
+Position: SF
+Age: 30
+Team: TOR
+ Games Played: 11
+Minutes Played: 130
+Advanced Statistics:
+Player Efficiency Rating = 8.2
+True Shooting Percentage = 0.53
+Usage Percentage = 9.3
+Win Shares = 0.2
+VORP = 0.0
+
+Bobby Portis:
+Position: PF
+Age: 28
+Team: MIL
+ Games Played: 28
+Minutes Played: 667
+Advanced Statistics:
+Player Efficiency Rating = 16.8
+True Shooting Percentage = 0.58
+Usage Percentage = 20.6
+Win Shares = 1.7
+VORP = 0.1
+
+Kristaps Porziņģis:
+Position: C
+Age: 28
+Team: BOS
+ Games Played: 20
+Minutes Played: 604
+Advanced Statistics:
+Player Efficiency Rating = 21.5
+True Shooting Percentage = 0.659
+Usage Percentage = 23.2
+Win Shares = 2.7
+VORP = 1.0
+
+Micah Potter:
+Position: PF
+Age: 25
+Team: UTA
+ Games Played: 2
+Minutes Played: 7
+Advanced Statistics:
+Player Efficiency Rating = 1.8
+True Shooting Percentage = 0.0
+Usage Percentage = 5.9
+Win Shares = 0.0
+VORP = 0.0
+
+Dwight Powell:
+Position: C
+Age: 32
+Team: DAL
+ Games Played: 24
+Minutes Played: 355
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.781
+Usage Percentage = 9.2
+Win Shares = 1.5
+VORP = 0.2
+
+Norman Powell:
+Position: SG
+Age: 30
+Team: LAC
+ Games Played: 28
+Minutes Played: 708
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.657
+Usage Percentage = 19.2
+Win Shares = 1.9
+VORP = 0.4
+
+Joshua Primo:
+Position: SG
+Age: 21
+Team: LAC
+ Games Played: 1
+Minutes Played: 5
+Advanced Statistics:
+Player Efficiency Rating = -15.3
+True Shooting Percentage = 0.5
+Usage Percentage = 43.2
+Win Shares = -0.1
+VORP = 0.0
+
+Taurean Prince:
+Position: PF
+Age: 29
+Team: LAL
+ Games Played: 27
+Minutes Played: 833
+Advanced Statistics:
+Player Efficiency Rating = 8.5
+True Shooting Percentage = 0.581
+Usage Percentage = 13.3
+Win Shares = 1.0
+VORP = -0.2
+
+Payton Pritchard:
+Position: PG
+Age: 26
+Team: BOS
+ Games Played: 27
+Minutes Played: 552
+Advanced Statistics:
+Player Efficiency Rating = 13.0
+True Shooting Percentage = 0.562
+Usage Percentage = 14.5
+Win Shares = 1.6
+VORP = 0.4
+
+Olivier-Maxence Prosper:
+Position: PF
+Age: 21
+Team: DAL
+ Games Played: 17
+Minutes Played: 143
+Advanced Statistics:
+Player Efficiency Rating = 9.2
+True Shooting Percentage = 0.462
+Usage Percentage = 12.5
+Win Shares = 0.2
+VORP = -0.1
+
+Neemias Queta:
+Position: C
+Age: 24
+Team: BOS
+ Games Played: 7
+Minutes Played: 105
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.512
+Usage Percentage = 15.3
+Win Shares = 0.3
+VORP = -0.1
+
+Immanuel Quickley:
+Position: SG
+Age: 24
+Team: NYK
+ Games Played: 26
+Minutes Played: 623
+Advanced Statistics:
+Player Efficiency Rating = 17.1
+True Shooting Percentage = 0.583
+Usage Percentage = 24.5
+Win Shares = 1.8
+VORP = 0.6
+
+Lester Quinones:
+Position: SG
+Age: 23
+Team: GSW
+ Games Played: 2
+Minutes Played: 9
+Advanced Statistics:
+Player Efficiency Rating = -3.1
+True Shooting Percentage = 0.417
+Usage Percentage = 32.4
+Win Shares = 0.0
+VORP = 0.0
+
+Julius Randle:
+Position: PF
+Age: 29
+Team: NYK
+ Games Played: 27
+Minutes Played: 953
+Advanced Statistics:
+Player Efficiency Rating = 18.1
+True Shooting Percentage = 0.552
+Usage Percentage = 28.5
+Win Shares = 2.1
+VORP = 0.8
+
+Duop Reath:
+Position: C
+Age: 27
+Team: POR
+ Games Played: 18
+Minutes Played: 264
+Advanced Statistics:
+Player Efficiency Rating = 16.8
+True Shooting Percentage = 0.571
+Usage Percentage = 22.5
+Win Shares = 0.7
+VORP = 0.2
+
+Austin Reaves:
+Position: SG
+Age: 25
+Team: LAL
+ Games Played: 29
+Minutes Played: 853
+Advanced Statistics:
+Player Efficiency Rating = 16.1
+True Shooting Percentage = 0.604
+Usage Percentage = 22.3
+Win Shares = 1.8
+VORP = 0.6
+
+Cam Reddish:
+Position: SF
+Age: 24
+Team: LAL
+ Games Played: 24
+Minutes Played: 596
+Advanced Statistics:
+Player Efficiency Rating = 9.4
+True Shooting Percentage = 0.518
+Usage Percentage = 13.3
+Win Shares = 0.8
+VORP = 0.0
+
+Paul Reed:
+Position: C
+Age: 24
+Team: PHI
+ Games Played: 27
+Minutes Played: 371
+Advanced Statistics:
+Player Efficiency Rating = 16.0
+True Shooting Percentage = 0.619
+Usage Percentage = 15.3
+Win Shares = 1.2
+VORP = 0.2
+
+Naz Reid:
+Position: C
+Age: 24
+Team: MIN
+ Games Played: 27
+Minutes Played: 604
+Advanced Statistics:
+Player Efficiency Rating = 17.1
+True Shooting Percentage = 0.619
+Usage Percentage = 23.2
+Win Shares = 1.8
+VORP = 0.6
+
+Jared Rhoden:
+Position: SG
+Age: 24
+Team: DET
+ Games Played: 5
+Minutes Played: 30
+Advanced Statistics:
+Player Efficiency Rating = 11.0
+True Shooting Percentage = 0.658
+Usage Percentage = 16.6
+Win Shares = 0.0
+VORP = 0.0
+
+Nick Richards:
+Position: C
+Age: 26
+Team: CHO
+ Games Played: 20
+Minutes Played: 422
+Advanced Statistics:
+Player Efficiency Rating = 18.0
+True Shooting Percentage = 0.754
+Usage Percentage = 13.3
+Win Shares = 1.3
+VORP = 0.1
+
+Josh Richardson:
+Position: SG
+Age: 30
+Team: MIA
+ Games Played: 23
+Minutes Played: 637
+Advanced Statistics:
+Player Efficiency Rating = 11.1
+True Shooting Percentage = 0.569
+Usage Percentage = 16.2
+Win Shares = 1.0
+VORP = -0.1
+
+Duncan Robinson:
+Position: SF
+Age: 29
+Team: MIA
+ Games Played: 26
+Minutes Played: 757
+Advanced Statistics:
+Player Efficiency Rating = 14.1
+True Shooting Percentage = 0.65
+Usage Percentage = 19.0
+Win Shares = 1.7
+VORP = 0.4
+
+Jerome Robinson:
+Position: SG
+Age: 26
+Team: GSW
+ Games Played: 1
+Minutes Played: 5
+Advanced Statistics:
+Player Efficiency Rating = -4.9
+True Shooting Percentage = 0.0
+Usage Percentage = 16.7
+Win Shares = 0.0
+VORP = 0.0
+
+Mitchell Robinson:
+Position: C
+Age: 25
+Team: NYK
+ Games Played: 21
+Minutes Played: 613
+Advanced Statistics:
+Player Efficiency Rating = 16.0
+True Shooting Percentage = 0.567
+Usage Percentage = 9.4
+Win Shares = 1.9
+VORP = 0.4
+
+Orlando Robinson:
+Position: C
+Age: 23
+Team: MIA
+ Games Played: 13
+Minutes Played: 210
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.606
+Usage Percentage = 16.4
+Win Shares = 0.5
+VORP = 0.0
+
+Jeremiah Robinson-Earl:
+Position: PF
+Age: 23
+Team: NOP
+ Games Played: 12
+Minutes Played: 131
+Advanced Statistics:
+Player Efficiency Rating = 14.8
+True Shooting Percentage = 0.694
+Usage Percentage = 14.8
+Win Shares = 0.4
+VORP = 0.0
+
+David Roddy:
+Position: PF
+Age: 22
+Team: MEM
+ Games Played: 26
+Minutes Played: 619
+Advanced Statistics:
+Player Efficiency Rating = 8.9
+True Shooting Percentage = 0.49
+Usage Percentage = 16.5
+Win Shares = 0.3
+VORP = -0.3
+
+Ryan Rollins:
+Position: PG
+Age: 21
+Team: WAS
+ Games Played: 8
+Minutes Played: 49
+Advanced Statistics:
+Player Efficiency Rating = 25.4
+True Shooting Percentage = 0.639
+Usage Percentage = 27.5
+Win Shares = 0.2
+VORP = 0.1
+
+Derrick Rose:
+Position: PG
+Age: 35
+Team: MEM
+ Games Played: 15
+Minutes Played: 284
+Advanced Statistics:
+Player Efficiency Rating = 12.8
+True Shooting Percentage = 0.522
+Usage Percentage = 22.7
+Win Shares = 0.3
+VORP = -0.1
+
+Terry Rozier:
+Position: SG
+Age: 29
+Team: CHO
+ Games Played: 17
+Minutes Played: 606
+Advanced Statistics:
+Player Efficiency Rating = 19.5
+True Shooting Percentage = 0.571
+Usage Percentage = 27.2
+Win Shares = 1.1
+VORP = 0.6
+
+Rayan Rupert:
+Position: SG
+Age: 19
+Team: POR
+ Games Played: 7
+Minutes Played: 31
+Advanced Statistics:
+Player Efficiency Rating = -5.4
+True Shooting Percentage = 0.182
+Usage Percentage = 21.5
+Win Shares = -0.2
+VORP = -0.1
+
+D'Angelo Russell:
+Position: PG
+Age: 27
+Team: LAL
+ Games Played: 28
+Minutes Played: 846
+Advanced Statistics:
+Player Efficiency Rating = 15.5
+True Shooting Percentage = 0.564
+Usage Percentage = 22.0
+Win Shares = 1.7
+VORP = 0.6
+
+Matt Ryan:
+Position: SF
+Age: 26
+Team: NOP
+ Games Played: 13
+Minutes Played: 298
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.679
+Usage Percentage = 15.0
+Win Shares = 0.5
+VORP = 0.0
+
+Domantas Sabonis:
+Position: C
+Age: 27
+Team: SAC
+ Games Played: 26
+Minutes Played: 899
+Advanced Statistics:
+Player Efficiency Rating = 21.8
+True Shooting Percentage = 0.62
+Usage Percentage = 22.0
+Win Shares = 3.4
+VORP = 1.6
+
+Luka Šamanić:
+Position: PF
+Age: 24
+Team: UTA
+ Games Played: 13
+Minutes Played: 91
+Advanced Statistics:
+Player Efficiency Rating = 9.3
+True Shooting Percentage = 0.471
+Usage Percentage = 24.6
+Win Shares = -0.1
+VORP = -0.1
+
+Jermaine Samuels:
+Position: SF
+Age: 25
+Team: HOU
+ Games Played: 5
+Minutes Played: 29
+Advanced Statistics:
+Player Efficiency Rating = 10.8
+True Shooting Percentage = 0.615
+Usage Percentage = 7.3
+Win Shares = 0.1
+VORP = 0.0
+
+Gui Santos:
+Position: PF
+Age: 21
+Team: GSW
+ Games Played: 2
+Minutes Played: 12
+Advanced Statistics:
+Player Efficiency Rating = 5.5
+True Shooting Percentage = 0.5
+Usage Percentage = 20.8
+Win Shares = 0.0
+VORP = 0.0
+
+Dario Šarić:
+Position: C
+Age: 29
+Team: GSW
+ Games Played: 27
+Minutes Played: 563
+Advanced Statistics:
+Player Efficiency Rating = 16.6
+True Shooting Percentage = 0.614
+Usage Percentage = 19.8
+Win Shares = 1.7
+VORP = 0.6
+
+Olivier Sarr:
+Position: C
+Age: 24
+Team: OKC
+ Games Played: 6
+Minutes Played: 61
+Advanced Statistics:
+Player Efficiency Rating = 12.7
+True Shooting Percentage = 0.66
+Usage Percentage = 11.0
+Win Shares = 0.2
+VORP = 0.0
+
+Marcus Sasser:
+Position: PG
+Age: 23
+Team: DET
+ Games Played: 27
+Minutes Played: 455
+Advanced Statistics:
+Player Efficiency Rating = 14.5
+True Shooting Percentage = 0.604
+Usage Percentage = 18.4
+Win Shares = 0.8
+VORP = 0.2
+
+Admiral Schofield:
+Position: PF
+Age: 26
+Team: ORL
+ Games Played: 8
+Minutes Played: 28
+Advanced Statistics:
+Player Efficiency Rating = -7.2
+True Shooting Percentage = 0.322
+Usage Percentage = 22.5
+Win Shares = -0.1
+VORP = -0.1
+
+Dennis Schröder:
+Position: PG
+Age: 30
+Team: TOR
+ Games Played: 27
+Minutes Played: 863
+Advanced Statistics:
+Player Efficiency Rating = 14.0
+True Shooting Percentage = 0.541
+Usage Percentage = 20.4
+Win Shares = 1.7
+VORP = 0.1
+
+Dereon Seabron:
+Position: SG
+Age: 23
+Team: NOP
+ Games Played: 5
+Minutes Played: 52
+Advanced Statistics:
+Player Efficiency Rating = 9.1
+True Shooting Percentage = 0.448
+Usage Percentage = 12.8
+Win Shares = 0.1
+VORP = 0.0
+
+Alperen Şengün:
+Position: C
+Age: 21
+Team: HOU
+ Games Played: 25
+Minutes Played: 799
+Advanced Statistics:
+Player Efficiency Rating = 20.8
+True Shooting Percentage = 0.576
+Usage Percentage = 26.8
+Win Shares = 2.7
+VORP = 1.4
+
+Brice Sensabaugh:
+Position: SF
+Age: 20
+Team: UTA
+ Games Played: 1
+Minutes Played: 2
+Advanced Statistics:
+Player Efficiency Rating = -12.2
+True Shooting Percentage = 0.0
+Usage Percentage = 41.6
+Win Shares = 0.0
+VORP = 0.0
+
+Collin Sexton:
+Position: SG
+Age: 25
+Team: UTA
+ Games Played: 29
+Minutes Played: 672
+Advanced Statistics:
+Player Efficiency Rating = 17.2
+True Shooting Percentage = 0.586
+Usage Percentage = 26.6
+Win Shares = 1.3
+VORP = 0.3
+
+Landry Shamet:
+Position: SG
+Age: 26
+Team: WAS
+ Games Played: 15
+Minutes Played: 253
+Advanced Statistics:
+Player Efficiency Rating = 11.9
+True Shooting Percentage = 0.591
+Usage Percentage = 19.1
+Win Shares = 0.2
+VORP = -0.1
+
+Day'Ron Sharpe:
+Position: C
+Age: 22
+Team: BRK
+ Games Played: 27
+Minutes Played: 428
+Advanced Statistics:
+Player Efficiency Rating = 18.0
+True Shooting Percentage = 0.557
+Usage Percentage = 18.8
+Win Shares = 1.1
+VORP = 0.0
+
+Shaedon Sharpe:
+Position: SG
+Age: 20
+Team: POR
+ Games Played: 26
+Minutes Played: 911
+Advanced Statistics:
+Player Efficiency Rating = 11.5
+True Shooting Percentage = 0.534
+Usage Percentage = 22.0
+Win Shares = 0.7
+VORP = -0.2
+
+Ben Sheppard:
+Position: SG
+Age: 22
+Team: IND
+ Games Played: 12
+Minutes Played: 90
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.559
+Usage Percentage = 17.1
+Win Shares = 0.1
+VORP = 0.0
+
+Pascal Siakam:
+Position: PF
+Age: 29
+Team: TOR
+ Games Played: 27
+Minutes Played: 933
+Advanced Statistics:
+Player Efficiency Rating = 17.8
+True Shooting Percentage = 0.577
+Usage Percentage = 25.3
+Win Shares = 2.1
+VORP = 0.7
+
+Ben Simmons:
+Position: PG
+Age: 27
+Team: BRK
+ Games Played: 6
+Minutes Played: 191
+Advanced Statistics:
+Player Efficiency Rating = 12.8
+True Shooting Percentage = 0.516
+Usage Percentage = 11.7
+Win Shares = 0.3
+VORP = 0.1
+
+Anfernee Simons:
+Position: SG
+Age: 24
+Team: POR
+ Games Played: 9
+Minutes Played: 307
+Advanced Statistics:
+Player Efficiency Rating = 21.4
+True Shooting Percentage = 0.589
+Usage Percentage = 31.6
+Win Shares = 0.9
+VORP = 0.4
+
+Jericho Sims:
+Position: C
+Age: 25
+Team: NYK
+ Games Played: 14
+Minutes Played: 103
+Advanced Statistics:
+Player Efficiency Rating = 9.2
+True Shooting Percentage = 0.669
+Usage Percentage = 7.9
+Win Shares = 0.2
+VORP = -0.1
+
+Jalen Slawson:
+Position: SF
+Age: 24
+Team: SAC
+ Games Played: 5
+Minutes Played: 19
+Advanced Statistics:
+Player Efficiency Rating = 5.5
+True Shooting Percentage = 0.667
+Usage Percentage = 11.1
+Win Shares = 0.0
+VORP = 0.0
+
+Marcus Smart:
+Position: PG
+Age: 29
+Team: MEM
+ Games Played: 11
+Minutes Played: 329
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.534
+Usage Percentage = 21.4
+Win Shares = 0.1
+VORP = -0.1
+
+Dennis Smith Jr.:
+Position: PG
+Age: 26
+Team: BRK
+ Games Played: 13
+Minutes Played: 229
+Advanced Statistics:
+Player Efficiency Rating = 14.0
+True Shooting Percentage = 0.505
+Usage Percentage = 18.1
+Win Shares = 0.5
+VORP = 0.1
+
+Dru Smith:
+Position: SG
+Age: 26
+Team: MIA
+ Games Played: 9
+Minutes Played: 131
+Advanced Statistics:
+Player Efficiency Rating = 12.8
+True Shooting Percentage = 0.576
+Usage Percentage = 13.1
+Win Shares = 0.3
+VORP = 0.1
+
+Ish Smith:
+Position: PG
+Age: 35
+Team: CHO
+ Games Played: 20
+Minutes Played: 323
+Advanced Statistics:
+Player Efficiency Rating = 7.6
+True Shooting Percentage = 0.545
+Usage Percentage = 12.1
+Win Shares = -0.2
+VORP = -0.3
+
+Jabari Smith Jr.:
+Position: PF
+Age: 20
+Team: HOU
+ Games Played: 25
+Minutes Played: 759
+Advanced Statistics:
+Player Efficiency Rating = 14.7
+True Shooting Percentage = 0.591
+Usage Percentage = 17.9
+Win Shares = 2.2
+VORP = 0.5
+
+Jalen Smith:
+Position: C
+Age: 23
+Team: IND
+ Games Played: 15
+Minutes Played: 224
+Advanced Statistics:
+Player Efficiency Rating = 24.0
+True Shooting Percentage = 0.825
+Usage Percentage = 19.4
+Win Shares = 1.0
+VORP = 0.3
+
+Nick Smith Jr.:
+Position: SG
+Age: 19
+Team: CHO
+ Games Played: 11
+Minutes Played: 109
+Advanced Statistics:
+Player Efficiency Rating = 10.5
+True Shooting Percentage = 0.563
+Usage Percentage = 20.5
+Win Shares = 0.0
+VORP = -0.1
+
+Jeremy Sochan:
+Position: PG
+Age: 20
+Team: SAS
+ Games Played: 27
+Minutes Played: 791
+Advanced Statistics:
+Player Efficiency Rating = 9.2
+True Shooting Percentage = 0.488
+Usage Percentage = 18.2
+Win Shares = -0.2
+VORP = -0.6
+
+Jaden Springer:
+Position: SG
+Age: 21
+Team: PHI
+ Games Played: 16
+Minutes Played: 169
+Advanced Statistics:
+Player Efficiency Rating = 9.9
+True Shooting Percentage = 0.469
+Usage Percentage = 19.9
+Win Shares = 0.1
+VORP = -0.1
+
+Lamar Stevens:
+Position: PF
+Age: 26
+Team: BOS
+ Games Played: 10
+Minutes Played: 48
+Advanced Statistics:
+Player Efficiency Rating = 16.9
+True Shooting Percentage = 0.582
+Usage Percentage = 21.4
+Win Shares = 0.1
+VORP = 0.0
+
+Isaiah Stewart:
+Position: PF
+Age: 22
+Team: DET
+ Games Played: 26
+Minutes Played: 791
+Advanced Statistics:
+Player Efficiency Rating = 9.6
+True Shooting Percentage = 0.567
+Usage Percentage = 14.6
+Win Shares = 0.4
+VORP = -0.4
+
+Julian Strawther:
+Position: SF
+Age: 21
+Team: DEN
+ Games Played: 26
+Minutes Played: 365
+Advanced Statistics:
+Player Efficiency Rating = 10.8
+True Shooting Percentage = 0.517
+Usage Percentage = 19.1
+Win Shares = 0.5
+VORP = -0.1
+
+Max Strus:
+Position: SF
+Age: 27
+Team: CLE
+ Games Played: 29
+Minutes Played: 1000
+Advanced Statistics:
+Player Efficiency Rating = 11.1
+True Shooting Percentage = 0.54
+Usage Percentage = 18.2
+Win Shares = 1.4
+VORP = 0.2
+
+Jalen Suggs:
+Position: SG
+Age: 22
+Team: ORL
+ Games Played: 24
+Minutes Played: 624
+Advanced Statistics:
+Player Efficiency Rating = 14.3
+True Shooting Percentage = 0.6
+Usage Percentage = 19.9
+Win Shares = 1.4
+VORP = 0.5
+
+Cole Swider:
+Position: SF
+Age: 24
+Team: MIA
+ Games Played: 3
+Minutes Played: 29
+Advanced Statistics:
+Player Efficiency Rating = 15.0
+True Shooting Percentage = 0.571
+Usage Percentage = 22.8
+Win Shares = 0.0
+VORP = 0.1
+
+Jae'Sean Tate:
+Position: SF
+Age: 28
+Team: HOU
+ Games Played: 23
+Minutes Played: 410
+Advanced Statistics:
+Player Efficiency Rating = 11.0
+True Shooting Percentage = 0.557
+Usage Percentage = 12.2
+Win Shares = 1.1
+VORP = 0.2
+
+Jayson Tatum:
+Position: PF
+Age: 25
+Team: BOS
+ Games Played: 26
+Minutes Played: 957
+Advanced Statistics:
+Player Efficiency Rating = 20.5
+True Shooting Percentage = 0.598
+Usage Percentage = 29.8
+Win Shares = 3.1
+VORP = 1.4
+
+Terry Taylor:
+Position: PF
+Age: 24
+Team: CHI
+ Games Played: 8
+Minutes Played: 16
+Advanced Statistics:
+Player Efficiency Rating = 11.6
+True Shooting Percentage = 1.0
+Usage Percentage = 8.2
+Win Shares = 0.0
+VORP = 0.0
+
+Garrett Temple:
+Position: SG
+Age: 37
+Team: TOR
+ Games Played: 6
+Minutes Played: 19
+Advanced Statistics:
+Player Efficiency Rating = 27.9
+True Shooting Percentage = 0.935
+Usage Percentage = 13.1
+Win Shares = 0.1
+VORP = 0.1
+
+Dalen Terry:
+Position: SG
+Age: 21
+Team: CHI
+ Games Played: 14
+Minutes Played: 117
+Advanced Statistics:
+Player Efficiency Rating = 6.5
+True Shooting Percentage = 0.402
+Usage Percentage = 10.4
+Win Shares = 0.1
+VORP = -0.1
+
+Daniel Theis:
+Position: C
+Age: 31
+Team: TOT
+ Games Played: 18
+Minutes Played: 298
+Advanced Statistics:
+Player Efficiency Rating = 13.6
+True Shooting Percentage = 0.538
+Usage Percentage = 17.6
+Win Shares = 0.7
+VORP = -0.1
+
+Daniel Theis:
+Position: C
+Age: 31
+Team: IND
+ Games Played: 1
+Minutes Played: 8
+Advanced Statistics:
+Player Efficiency Rating = -6.5
+True Shooting Percentage = 0.25
+Usage Percentage = 20.5
+Win Shares = 0.0
+VORP = 0.0
+
+Daniel Theis:
+Position: C
+Age: 31
+Team: LAC
+ Games Played: 17
+Minutes Played: 290
+Advanced Statistics:
+Player Efficiency Rating = 14.1
+True Shooting Percentage = 0.549
+Usage Percentage = 17.5
+Win Shares = 0.7
+VORP = 0.0
+
+Cam Thomas:
+Position: SG
+Age: 22
+Team: BRK
+ Games Played: 18
+Minutes Played: 570
+Advanced Statistics:
+Player Efficiency Rating = 17.0
+True Shooting Percentage = 0.558
+Usage Percentage = 31.4
+Win Shares = 0.7
+VORP = 0.1
+
+Amen Thompson:
+Position: SF
+Age: 21
+Team: HOU
+ Games Played: 6
+Minutes Played: 86
+Advanced Statistics:
+Player Efficiency Rating = 7.5
+True Shooting Percentage = 0.491
+Usage Percentage = 18.0
+Win Shares = 0.0
+VORP = -0.1
+
+Ausar Thompson:
+Position: SF
+Age: 21
+Team: DET
+ Games Played: 28
+Minutes Played: 747
+Advanced Statistics:
+Player Efficiency Rating = 13.1
+True Shooting Percentage = 0.512
+Usage Percentage = 18.0
+Win Shares = 0.6
+VORP = -0.1
+
+Klay Thompson:
+Position: SF
+Age: 33
+Team: GSW
+ Games Played: 26
+Minutes Played: 794
+Advanced Statistics:
+Player Efficiency Rating = 12.5
+True Shooting Percentage = 0.568
+Usage Percentage = 22.9
+Win Shares = 1.1
+VORP = 0.3
+
+Tristan Thompson:
+Position: PF
+Age: 32
+Team: CLE
+ Games Played: 24
+Minutes Played: 267
+Advanced Statistics:
+Player Efficiency Rating = 16.7
+True Shooting Percentage = 0.653
+Usage Percentage = 11.7
+Win Shares = 0.9
+VORP = 0.2
+
+JT Thor:
+Position: PF
+Age: 21
+Team: CHO
+ Games Played: 23
+Minutes Played: 360
+Advanced Statistics:
+Player Efficiency Rating = 6.3
+True Shooting Percentage = 0.45
+Usage Percentage = 10.4
+Win Shares = -0.1
+VORP = -0.4
+
+Matisse Thybulle:
+Position: SF
+Age: 26
+Team: POR
+ Games Played: 27
+Minutes Played: 633
+Advanced Statistics:
+Player Efficiency Rating = 11.7
+True Shooting Percentage = 0.618
+Usage Percentage = 10.1
+Win Shares = 1.3
+VORP = 0.6
+
+Xavier Tillman Sr.:
+Position: C
+Age: 25
+Team: MEM
+ Games Played: 15
+Minutes Played: 310
+Advanced Statistics:
+Player Efficiency Rating = 11.3
+True Shooting Percentage = 0.437
+Usage Percentage = 17.2
+Win Shares = 0.2
+VORP = 0.0
+
+Jacob Toppin:
+Position: SF
+Age: 23
+Team: NYK
+ Games Played: 1
+Minutes Played: 2
+Advanced Statistics:
+Player Efficiency Rating = 18.8
+True Shooting Percentage = None
+Usage Percentage = 0.0
+Win Shares = 0.0
+VORP = 0.0
+
+Obi Toppin:
+Position: PF
+Age: 25
+Team: IND
+ Games Played: 27
+Minutes Played: 651
+Advanced Statistics:
+Player Efficiency Rating = 16.4
+True Shooting Percentage = 0.703
+Usage Percentage = 16.4
+Win Shares = 1.6
+VORP = 0.3
+
+Juan Toscano-Anderson:
+Position: SF
+Age: 30
+Team: SAC
+ Games Played: 3
+Minutes Played: 10
+Advanced Statistics:
+Player Efficiency Rating = 2.2
+True Shooting Percentage = 0.333
+Usage Percentage = 16.9
+Win Shares = 0.0
+VORP = 0.0
+
+Karl-Anthony Towns:
+Position: PF
+Age: 28
+Team: MIN
+ Games Played: 27
+Minutes Played: 899
+Advanced Statistics:
+Player Efficiency Rating = 19.8
+True Shooting Percentage = 0.629
+Usage Percentage = 26.6
+Win Shares = 3.3
+VORP = 1.2
+
+Gary Trent Jr.:
+Position: SG
+Age: 25
+Team: TOR
+ Games Played: 24
+Minutes Played: 607
+Advanced Statistics:
+Player Efficiency Rating = 9.2
+True Shooting Percentage = 0.501
+Usage Percentage = 19.2
+Win Shares = 0.3
+VORP = -0.3
+
+Oscar Tshiebwe:
+Position: PF
+Age: 24
+Team: IND
+ Games Played: 3
+Minutes Played: 17
+Advanced Statistics:
+Player Efficiency Rating = 21.7
+True Shooting Percentage = 0.564
+Usage Percentage = 23.5
+Win Shares = 0.1
+VORP = 0.0
+
+P.J. Tucker:
+Position: PF
+Age: 38
+Team: TOT
+ Games Played: 15
+Minutes Played: 239
+Advanced Statistics:
+Player Efficiency Rating = 5.4
+True Shooting Percentage = 0.492
+Usage Percentage = 4.4
+Win Shares = 0.4
+VORP = -0.1
+
+P.J. Tucker:
+Position: PF
+Age: 38
+Team: PHI
+ Games Played: 3
+Minutes Played: 66
+Advanced Statistics:
+Player Efficiency Rating = 4.6
+True Shooting Percentage = 0.6
+Usage Percentage = 4.5
+Win Shares = 0.1
+VORP = 0.0
+
+P.J. Tucker:
+Position: PF
+Age: 38
+Team: LAC
+ Games Played: 12
+Minutes Played: 173
+Advanced Statistics:
+Player Efficiency Rating = 5.7
+True Shooting Percentage = 0.457
+Usage Percentage = 4.3
+Win Shares = 0.3
+VORP = 0.0
+
+Myles Turner:
+Position: C
+Age: 27
+Team: IND
+ Games Played: 26
+Minutes Played: 714
+Advanced Statistics:
+Player Efficiency Rating = 19.1
+True Shooting Percentage = 0.605
+Usage Percentage = 22.9
+Win Shares = 1.7
+VORP = 0.3
+
+Hunter Tyson:
+Position: PF
+Age: 23
+Team: DEN
+ Games Played: 8
+Minutes Played: 20
+Advanced Statistics:
+Player Efficiency Rating = -1.2
+True Shooting Percentage = 0.25
+Usage Percentage = 8.6
+Win Shares = 0.0
+VORP = 0.0
+
+Stanley Umude:
+Position: SG
+Age: 24
+Team: DET
+ Games Played: 15
+Minutes Played: 155
+Advanced Statistics:
+Player Efficiency Rating = 13.5
+True Shooting Percentage = 0.693
+Usage Percentage = 17.3
+Win Shares = 0.3
+VORP = 0.1
+
+Jonas Valančiūnas:
+Position: C
+Age: 31
+Team: NOP
+ Games Played: 29
+Minutes Played: 803
+Advanced Statistics:
+Player Efficiency Rating = 21.0
+True Shooting Percentage = 0.65
+Usage Percentage = 19.7
+Win Shares = 3.3
+VORP = 1.0
+
+Jarred Vanderbilt:
+Position: PF
+Age: 24
+Team: LAL
+ Games Played: 8
+Minutes Played: 113
+Advanced Statistics:
+Player Efficiency Rating = 3.0
+True Shooting Percentage = 0.207
+Usage Percentage = 7.2
+Win Shares = 0.0
+VORP = -0.2
+
+Fred VanVleet:
+Position: PG
+Age: 29
+Team: HOU
+ Games Played: 24
+Minutes Played: 924
+Advanced Statistics:
+Player Efficiency Rating = 16.5
+True Shooting Percentage = 0.549
+Usage Percentage = 20.2
+Win Shares = 3.1
+VORP = 1.3
+
+Devin Vassell:
+Position: SG
+Age: 23
+Team: SAS
+ Games Played: 22
+Minutes Played: 655
+Advanced Statistics:
+Player Efficiency Rating = 15.6
+True Shooting Percentage = 0.589
+Usage Percentage = 23.8
+Win Shares = 0.8
+VORP = 0.3
+
+Sasha Vezenkov:
+Position: PF
+Age: 28
+Team: SAC
+ Games Played: 23
+Minutes Played: 322
+Advanced Statistics:
+Player Efficiency Rating = 13.0
+True Shooting Percentage = 0.564
+Usage Percentage = 16.9
+Win Shares = 0.6
+VORP = 0.1
+
+Gabe Vincent:
+Position: PG
+Age: 27
+Team: LAL
+ Games Played: 5
+Minutes Played: 127
+Advanced Statistics:
+Player Efficiency Rating = 6.1
+True Shooting Percentage = 0.411
+Usage Percentage = 11.8
+Win Shares = 0.1
+VORP = -0.1
+
+Nikola Vučević:
+Position: C
+Age: 33
+Team: CHI
+ Games Played: 30
+Minutes Played: 1021
+Advanced Statistics:
+Player Efficiency Rating = 16.1
+True Shooting Percentage = 0.505
+Usage Percentage = 23.3
+Win Shares = 1.6
+VORP = 0.3
+
+Dean Wade:
+Position: PF
+Age: 27
+Team: CLE
+ Games Played: 22
+Minutes Played: 468
+Advanced Statistics:
+Player Efficiency Rating = 11.4
+True Shooting Percentage = 0.629
+Usage Percentage = 10.2
+Win Shares = 1.3
+VORP = 0.3
+
+Franz Wagner:
+Position: SF
+Age: 22
+Team: ORL
+ Games Played: 27
+Minutes Played: 904
+Advanced Statistics:
+Player Efficiency Rating = 16.6
+True Shooting Percentage = 0.542
+Usage Percentage = 25.6
+Win Shares = 2.2
+VORP = 0.6
+
+Moritz Wagner:
+Position: C
+Age: 26
+Team: ORL
+ Games Played: 27
+Minutes Played: 514
+Advanced Statistics:
+Player Efficiency Rating = 19.5
+True Shooting Percentage = 0.683
+Usage Percentage = 22.6
+Win Shares = 1.8
+VORP = 0.5
+
+Ish Wainright:
+Position: SF
+Age: 29
+Team: POR
+ Games Played: 2
+Minutes Played: 5
+Advanced Statistics:
+Player Efficiency Rating = -0.5
+True Shooting Percentage = 0.0
+Usage Percentage = 8.4
+Win Shares = 0.0
+VORP = 0.0
+
+Jabari Walker:
+Position: SF
+Age: 21
+Team: POR
+ Games Played: 27
+Minutes Played: 481
+Advanced Statistics:
+Player Efficiency Rating = 14.2
+True Shooting Percentage = 0.551
+Usage Percentage = 17.9
+Win Shares = 1.0
+VORP = -0.1
+
+Jarace Walker:
+Position: PF
+Age: 20
+Team: IND
+ Games Played: 8
+Minutes Played: 84
+Advanced Statistics:
+Player Efficiency Rating = 11.3
+True Shooting Percentage = 0.512
+Usage Percentage = 15.8
+Win Shares = 0.1
+VORP = 0.0
+
+Lonnie Walker IV:
+Position: SG
+Age: 25
+Team: BRK
+ Games Played: 17
+Minutes Played: 362
+Advanced Statistics:
+Player Efficiency Rating = 18.2
+True Shooting Percentage = 0.633
+Usage Percentage = 25.9
+Win Shares = 0.8
+VORP = 0.4
+
+Cason Wallace:
+Position: SG
+Age: 20
+Team: OKC
+ Games Played: 26
+Minutes Played: 564
+Advanced Statistics:
+Player Efficiency Rating = 11.5
+True Shooting Percentage = 0.688
+Usage Percentage = 11.1
+Win Shares = 1.5
+VORP = 0.3
+
+P.J. Washington:
+Position: PF
+Age: 25
+Team: CHO
+ Games Played: 23
+Minutes Played: 691
+Advanced Statistics:
+Player Efficiency Rating = 12.1
+True Shooting Percentage = 0.529
+Usage Percentage = 20.1
+Win Shares = 0.2
+VORP = -0.2
+
+TyTy Washington Jr.:
+Position: PG
+Age: 22
+Team: MIL
+ Games Played: 2
+Minutes Played: 6
+Advanced Statistics:
+Player Efficiency Rating = 0.9
+True Shooting Percentage = 0.5
+Usage Percentage = 35.1
+Win Shares = 0.0
+VORP = 0.0
+
+Yuta Watanabe:
+Position: SF
+Age: 29
+Team: PHO
+ Games Played: 19
+Minutes Played: 328
+Advanced Statistics:
+Player Efficiency Rating = 5.7
+True Shooting Percentage = 0.513
+Usage Percentage = 13.1
+Win Shares = 0.1
+VORP = -0.3
+
+Lindy Waters III:
+Position: SG
+Age: 26
+Team: OKC
+ Games Played: 9
+Minutes Played: 70
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.591
+Usage Percentage = 13.5
+Win Shares = 0.2
+VORP = 0.0
+
+Trendon Watford:
+Position: PF
+Age: 23
+Team: BRK
+ Games Played: 20
+Minutes Played: 280
+Advanced Statistics:
+Player Efficiency Rating = 15.9
+True Shooting Percentage = 0.588
+Usage Percentage = 19.6
+Win Shares = 0.6
+VORP = 0.2
+
+Peyton Watson:
+Position: SF
+Age: 21
+Team: DEN
+ Games Played: 27
+Minutes Played: 452
+Advanced Statistics:
+Player Efficiency Rating = 12.9
+True Shooting Percentage = 0.58
+Usage Percentage = 14.6
+Win Shares = 1.0
+VORP = 0.2
+
+Victor Wembanyama:
+Position: PF
+Age: 20
+Team: SAS
+ Games Played: 25
+Minutes Played: 754
+Advanced Statistics:
+Player Efficiency Rating = 18.1
+True Shooting Percentage = 0.52
+Usage Percentage = 29.3
+Win Shares = 0.2
+VORP = 0.3
+
+Blake Wesley:
+Position: SG
+Age: 20
+Team: SAS
+ Games Played: 7
+Minutes Played: 29
+Advanced Statistics:
+Player Efficiency Rating = 12.0
+True Shooting Percentage = 0.465
+Usage Percentage = 17.0
+Win Shares = 0.0
+VORP = 0.0
+
+Russell Westbrook:
+Position: PG
+Age: 35
+Team: LAC
+ Games Played: 28
+Minutes Played: 680
+Advanced Statistics:
+Player Efficiency Rating = 15.8
+True Shooting Percentage = 0.514
+Usage Percentage = 23.7
+Win Shares = 1.1
+VORP = 0.5
+
+Coby White:
+Position: PG
+Age: 23
+Team: CHI
+ Games Played: 30
+Minutes Played: 1041
+Advanced Statistics:
+Player Efficiency Rating = 15.2
+True Shooting Percentage = 0.598
+Usage Percentage = 21.0
+Win Shares = 2.2
+VORP = 0.7
+
+Derrick White:
+Position: SG
+Age: 29
+Team: BOS
+ Games Played: 24
+Minutes Played: 782
+Advanced Statistics:
+Player Efficiency Rating = 19.2
+True Shooting Percentage = 0.66
+Usage Percentage = 18.8
+Win Shares = 3.4
+VORP = 1.6
+
+Cam Whitmore:
+Position: SF
+Age: 19
+Team: HOU
+ Games Played: 5
+Minutes Played: 32
+Advanced Statistics:
+Player Efficiency Rating = 14.3
+True Shooting Percentage = 0.515
+Usage Percentage = 29.2
+Win Shares = 0.0
+VORP = 0.0
+
+Aaron Wiggins:
+Position: SG
+Age: 25
+Team: OKC
+ Games Played: 24
+Minutes Played: 297
+Advanced Statistics:
+Player Efficiency Rating = 14.5
+True Shooting Percentage = 0.689
+Usage Percentage = 14.9
+Win Shares = 0.9
+VORP = 0.2
+
+Andrew Wiggins:
+Position: SF
+Age: 28
+Team: GSW
+ Games Played: 25
+Minutes Played: 664
+Advanced Statistics:
+Player Efficiency Rating = 8.9
+True Shooting Percentage = 0.493
+Usage Percentage = 22.3
+Win Shares = -0.1
+VORP = -0.7
+
+Lindell Wigginton:
+Position: PG
+Age: 25
+Team: MIL
+ Games Played: 3
+Minutes Played: 8
+Advanced Statistics:
+Player Efficiency Rating = 6.0
+True Shooting Percentage = 0.51
+Usage Percentage = 36.2
+Win Shares = 0.0
+VORP = 0.0
+
+Grant Williams:
+Position: PF
+Age: 25
+Team: DAL
+ Games Played: 24
+Minutes Played: 708
+Advanced Statistics:
+Player Efficiency Rating = 9.2
+True Shooting Percentage = 0.575
+Usage Percentage = 13.2
+Win Shares = 0.9
+VORP = -0.2
+
+Jalen Williams:
+Position: PF
+Age: 22
+Team: OKC
+ Games Played: 23
+Minutes Played: 737
+Advanced Statistics:
+Player Efficiency Rating = 14.9
+True Shooting Percentage = 0.584
+Usage Percentage = 21.8
+Win Shares = 1.7
+VORP = 0.2
+
+Jaylin Williams:
+Position: C
+Age: 21
+Team: OKC
+ Games Played: 21
+Minutes Played: 268
+Advanced Statistics:
+Player Efficiency Rating = 11.5
+True Shooting Percentage = 0.554
+Usage Percentage = 14.6
+Win Shares = 0.7
+VORP = 0.1
+
+Jeenathan Williams:
+Position: SG
+Age: 24
+Team: HOU
+ Games Played: 4
+Minutes Played: 22
+Advanced Statistics:
+Player Efficiency Rating = 15.7
+True Shooting Percentage = 0.547
+Usage Percentage = 23.6
+Win Shares = 0.1
+VORP = 0.0
+
+Kenrich Williams:
+Position: PF
+Age: 29
+Team: OKC
+ Games Played: 16
+Minutes Played: 237
+Advanced Statistics:
+Player Efficiency Rating = 12.6
+True Shooting Percentage = 0.596
+Usage Percentage = 12.6
+Win Shares = 0.7
+VORP = 0.2
+
+Mark Williams:
+Position: C
+Age: 22
+Team: CHO
+ Games Played: 19
+Minutes Played: 508
+Advanced Statistics:
+Player Efficiency Rating = 22.4
+True Shooting Percentage = 0.675
+Usage Percentage = 16.6
+Win Shares = 2.0
+VORP = 0.3
+
+Patrick Williams:
+Position: PF
+Age: 22
+Team: CHI
+ Games Played: 30
+Minutes Played: 819
+Advanced Statistics:
+Player Efficiency Rating = 12.2
+True Shooting Percentage = 0.561
+Usage Percentage = 16.1
+Win Shares = 1.2
+VORP = 0.1
+
+Robert Williams:
+Position: C
+Age: 26
+Team: POR
+ Games Played: 6
+Minutes Played: 119
+Advanced Statistics:
+Player Efficiency Rating = 17.2
+True Shooting Percentage = 0.684
+Usage Percentage = 13.1
+Win Shares = 0.4
+VORP = 0.1
+
+Vince Williams Jr.:
+Position: SG
+Age: 23
+Team: MEM
+ Games Played: 19
+Minutes Played: 369
+Advanced Statistics:
+Player Efficiency Rating = 10.7
+True Shooting Percentage = 0.61
+Usage Percentage = 11.7
+Win Shares = 0.8
+VORP = 0.1
+
+Ziaire Williams:
+Position: SF
+Age: 22
+Team: MEM
+ Games Played: 25
+Minutes Played: 499
+Advanced Statistics:
+Player Efficiency Rating = 9.4
+True Shooting Percentage = 0.526
+Usage Percentage = 19.1
+Win Shares = 0.2
+VORP = -0.3
+
+Zion Williamson:
+Position: PF
+Age: 23
+Team: NOP
+ Games Played: 23
+Minutes Played: 701
+Advanced Statistics:
+Player Efficiency Rating = 22.1
+True Shooting Percentage = 0.607
+Usage Percentage = 28.8
+Win Shares = 2.2
+VORP = 0.9
+
+Jalen Wilson:
+Position: PF
+Age: 23
+Team: BRK
+ Games Played: 7
+Minutes Played: 52
+Advanced Statistics:
+Player Efficiency Rating = 15.4
+True Shooting Percentage = 0.836
+Usage Percentage = 10.4
+Win Shares = 0.2
+VORP = 0.0
+
+Dylan Windler:
+Position: SF
+Age: 27
+Team: NYK
+ Games Played: 3
+Minutes Played: 7
+Advanced Statistics:
+Player Efficiency Rating = 15.5
+True Shooting Percentage = 0.75
+Usage Percentage = 12.1
+Win Shares = 0.0
+VORP = 0.0
+
+James Wiseman:
+Position: C
+Age: 22
+Team: DET
+ Games Played: 18
+Minutes Played: 258
+Advanced Statistics:
+Player Efficiency Rating = 17.2
+True Shooting Percentage = 0.71
+Usage Percentage = 17.0
+Win Shares = 0.6
+VORP = 0.0
+
+Christian Wood:
+Position: PF
+Age: 28
+Team: LAL
+ Games Played: 26
+Minutes Played: 490
+Advanced Statistics:
+Player Efficiency Rating = 10.4
+True Shooting Percentage = 0.552
+Usage Percentage = 16.8
+Win Shares = 0.5
+VORP = -0.3
+
+Delon Wright:
+Position: PG
+Age: 31
+Team: WAS
+ Games Played: 8
+Minutes Played: 141
+Advanced Statistics:
+Player Efficiency Rating = 17.0
+True Shooting Percentage = 0.54
+Usage Percentage = 12.3
+Win Shares = 0.4
+VORP = 0.1
+
+Thaddeus Young:
+Position: PF
+Age: 35
+Team: TOR
+ Games Played: 4
+Minutes Played: 13
+Advanced Statistics:
+Player Efficiency Rating = 10.0
+True Shooting Percentage = 0.41
+Usage Percentage = 19.2
+Win Shares = 0.0
+VORP = 0.0
+
+Trae Young:
+Position: PG
+Age: 25
+Team: ATL
+ Games Played: 25
+Minutes Played: 900
+Advanced Statistics:
+Player Efficiency Rating = 22.7
+True Shooting Percentage = 0.591
+Usage Percentage = 31.8
+Win Shares = 2.9
+VORP = 1.4
+
+Omer Yurtseven:
+Position: C
+Age: 25
+Team: UTA
+ Games Played: 18
+Minutes Played: 227
+Advanced Statistics:
+Player Efficiency Rating = 12.9
+True Shooting Percentage = 0.552
+Usage Percentage = 16.6
+Win Shares = 0.2
+VORP = -0.1
+
+Cody Zeller:
+Position: C
+Age: 31
+Team: NOP
+ Games Played: 22
+Minutes Played: 221
+Advanced Statistics:
+Player Efficiency Rating = 9.4
+True Shooting Percentage = 0.406
+Usage Percentage = 11.3
+Win Shares = 0.4
+VORP = -0.1
+
+Ivica Zubac:
+Position: C
+Age: 26
+Team: LAC
+ Games Played: 28
+Minutes Played: 741
+Advanced Statistics:
+Player Efficiency Rating = 18.8
+True Shooting Percentage = 0.638
+Usage Percentage = 17.1
+Win Shares = 2.7
+VORP = 0.3
+
