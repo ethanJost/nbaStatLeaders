@@ -10,8 +10,10 @@ async def run(playwright):
     await page.goto('https://www.basketball-reference.com/leagues/NBA_2024_advanced.html', timeout=60000)
     num_players = await page.eval_on_selector_all('td[data-stat="player"]', "elements => elements.length")
     players = []
+    seen_players = set()
     for i in range(num_players):
         name_element = f"document.querySelectorAll('td[data-stat=\"player\"]')[{i}].textContent"
+        temp_player = name_element
         pos_element = f"document.querySelectorAll('td[data-stat=\"pos\"]')[{i}].textContent"
         age_element = f"document.querySelectorAll('td[data-stat=\"age\"]')[{i}].textContent"
         team_element = f"document.querySelectorAll('td[data-stat=\"team_id\"]')[{i}].textContent"
@@ -22,8 +24,11 @@ async def run(playwright):
         usg_element = f"document.querySelectorAll('td[data-stat=\"usg_pct\"]')[{i}].textContent"
         ws_element = f"document.querySelectorAll('td[data-stat=\"ws\"]')[{i}].textContent"
         vorp_element = f"document.querySelectorAll('td[data-stat=\"vorp\"]')[{i}].textContent"
+        name = await page.evaluate(name_element)
+        if name in seen_players:
+            continue
+        seen_players.add(name)
         try:
-            name = await page.evaluate(name_element)
             vorp_text = await page.evaluate(vorp_element)
             pos_text = await page.evaluate(pos_element)
             age_text = await page.evaluate(age_element)
@@ -66,8 +71,8 @@ async def run(playwright):
                 ws = float(ws_text)
             except ValueError:
                 ws = None
-            
-            
+        
+        
 
             player = Player(name, pos_text, age, team_text, games, mp, per, ts, usg, ws, vorp)
             players.append(player)
